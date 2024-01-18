@@ -1,0 +1,893 @@
+_id,name,company,year,Price,kms_driven,fuel_type
+65a8df601781205b99e8baa5,Hyundai Santro Xing XO eRLX Euro III,Hyundai,2007,"80,000","45,000 kms",Petrol
+65a8df601781205b99e8baa6,Mahindra Jeep CL550 MDI,Mahindra,2006,"4,25,000",40 kms,Diesel
+65a8df601781205b99e8baa7,Maruti Suzuki Alto 800 Vxi,Maruti,2018,Ask For Price,"22,000 kms",Petrol
+65a8df601781205b99e8baa8,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2014,"3,25,000","28,000 kms",Petrol
+65a8df601781205b99e8baa9,Ford EcoSport Titanium 1.5L TDCi,Ford,2014,"5,75,000","36,000 kms",Diesel
+65a8df601781205b99e8baaa,Ford EcoSport Titanium 1.5L TDCi,Ford,2015,Ask For Price,"59,000 kms",Diesel
+65a8df601781205b99e8baab,Ford Figo,Ford,2012,"1,75,000","41,000 kms",Diesel
+65a8df601781205b99e8baac,Hyundai Eon,Hyundai,2013,"1,90,000","25,000 kms",Petrol
+65a8df601781205b99e8baad,Ford EcoSport Ambiente 1.5L TDCi,Ford,2016,"8,30,000","24,530 kms",Diesel
+65a8df601781205b99e8baae,Maruti Suzuki Alto K10 VXi AMT,Maruti,2015,"2,50,000","60,000 kms",Petrol
+65a8df601781205b99e8baaf,Skoda Fabia Classic 1.2 MPI,Skoda,2010,"1,82,000","60,000 kms",Petrol
+65a8df601781205b99e8bab0,Maruti Suzuki Stingray VXi,Maruti,2015,"3,15,000","30,000 kms",Petrol
+65a8df601781205b99e8bab1,Hyundai Elite i20 Magna 1.2,Hyundai,2014,"4,15,000","32,000 kms",Petrol
+65a8df601781205b99e8bab2,Mahindra Scorpio SLE BS IV,Mahindra,2015,"3,20,000","48,660 kms",Diesel
+65a8df601781205b99e8bab3,Hyundai Santro Xing XO eRLX Euro III,Hyundai,2007,"80,000","45,000 kms",Petrol
+65a8df601781205b99e8bab4,Mahindra Jeep CL550 MDI,Mahindra,2006,"4,25,000",40 kms,Diesel
+65a8df601781205b99e8bab5,Audi A8,Audi,2017,"10,00,000","4,000 kms",Petrol
+65a8df601781205b99e8bab6,Audi Q7,Audi,2014,"5,00,000","16,934 kms",Diesel
+65a8df601781205b99e8bab7,Mahindra Scorpio S10,Mahindra,2016,"3,50,000","43,000 kms",Diesel
+65a8df601781205b99e8bab8,Maruti Suzuki Alto 800,Maruti,2014,"1,60,000","35,550 kms",Petrol
+65a8df601781205b99e8bab9,Mahindra Scorpio S10,Mahindra,2016,"3,50,000","43,000 kms",Diesel
+65a8df601781205b99e8baba,Mahindra Scorpio S10,Mahindra,2016,"3,10,000","39,522 kms",Diesel
+65a8df601781205b99e8babb,Maruti Suzuki Alto 800 Vxi,Maruti,2015,"75,000","39,000 kms",Petrol
+65a8df601781205b99e8babc,Hyundai i20 Sportz 1.2,Hyundai,2012,"1,00,000","55,000 kms",Petrol
+65a8df601781205b99e8babd,Hyundai i20 Sportz 1.2,Hyundai,2012,"1,00,000","55,000 kms",Petrol
+65a8df601781205b99e8babe,Hyundai i20 Sportz 1.2,Hyundai,2012,"1,00,000","55,000 kms",Petrol
+65a8df601781205b99e8babf,Maruti Suzuki Alto 800 Lx,Maruti,2017,"1,90,000","72,000 kms",Petrol
+65a8df601781205b99e8bac0,Maruti Suzuki Vitara Brezza ZDi,Maruti,2016,"2,90,000","15,975 kms",Diesel
+65a8df601781205b99e8bac1,Maruti Suzuki Alto LX,Maruti,2008,"95,000","70,000 kms",Petrol
+65a8df601781205b99e8bac2,Mahindra Bolero DI,Mahindra,2017,"1,80,000","23,452 kms",Diesel
+65a8df601781205b99e8bac3,Maruti Suzuki Swift Dzire ZDi,Maruti,2014,"3,85,000","35,522 kms",Diesel
+65a8df601781205b99e8bac4,Mahindra Scorpio S10 4WD,Mahindra,2015,"2,50,000","48,508 kms",Diesel
+65a8df601781205b99e8bac5,Maruti Suzuki Swift Vdi BSIII,Maruti,2017,"1,80,000","15,487 kms",Petrol
+65a8df601781205b99e8bac6,Maruti Suzuki Wagon R VXi BS III,Maruti,2013,"1,05,000","39,000 kms",Petrol
+65a8df601781205b99e8bac7,Maruti Suzuki Wagon R VXi Minor,Maruti,2013,"1,05,000","39,000 kms",Petrol
+65a8df601781205b99e8bac8,Toyota Innova 2.0 G 8 STR BS IV,Toyota,2012,"6,50,000","82,000 kms",Diesel
+65a8df601781205b99e8bac9,Renault Lodgy 85 PS RXL,Renault,2018,"6,89,999","20,000 kms",Diesel
+65a8df601781205b99e8baca,Skoda Yeti Ambition 2.0 TDI CR 4x2,Skoda,2012,"4,48,000","68,000 kms",Diesel
+65a8df601781205b99e8bacb,Maruti Suzuki Baleno Delta 1.2,Maruti,2017,"5,49,000","32,000 kms",Diesel
+65a8df601781205b99e8bacc,Renault Duster 110 PS RxZ Diesel Plus,Renault,2012,"5,01,000","38,000 kms",Diesel
+65a8df601781205b99e8bacd,Renault Duster 85 PS RxE Diesel,Renault,2013,"4,89,999","27,000 kms",Diesel
+65a8df601781205b99e8bace,Honda City 1.5 S MT,Honda,2011,"2,80,000","33,000 kms",Petrol
+65a8df601781205b99e8bacf,Maruti Suzuki Alto K10 VXi AMT,Maruti,2015,"2,50,000","60,000 kms",Petrol
+65a8df601781205b99e8bad0,Maruti Suzuki Dzire,Maruti,2013,"3,49,999","46,000 kms",Diesel
+65a8df601781205b99e8bad1,Honda Amaze,Honda,2013,"2,84,999","46,000 kms",Diesel
+65a8df601781205b99e8bad2,Honda Amaze 1.5 SX i DTEC,Honda,2015,"3,45,000","36,000 kms",Diesel
+65a8df601781205b99e8bad3,Honda City,Honda,2015,"4,99,999","55,000 kms",Petrol
+65a8df601781205b99e8bad4,Datsun Redi GO S,Datsun,2017,"2,35,000","16,000 kms",Petrol
+65a8df601781205b99e8bad5,Maruti Suzuki SX4 ZXI MT,Maruti,2010,"2,49,999","36,000 kms",Petrol
+65a8df601781205b99e8bad6,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,2015,"14,75,000","47,000 kms",Diesel
+65a8df601781205b99e8bad7,Mahindra Bolero DI,Mahindra,2017,"1,80,000","23,452 kms",Diesel
+65a8df601781205b99e8bad8,Maruti Suzuki Swift Dzire ZDi,Maruti,2014,"3,85,000","35,522 kms",Diesel
+65a8df601781205b99e8bad9,Mahindra Scorpio S10 4WD,Mahindra,2015,"2,50,000","48,508 kms",Diesel
+65a8df601781205b99e8bada,Maruti Suzuki Swift Vdi BSIII,Maruti,2017,"1,80,000","15,487 kms",Petrol
+65a8df601781205b99e8badb,Maruti Suzuki Wagon R VXi BS III,Maruti,2013,"1,05,000","39,000 kms",Petrol
+65a8df601781205b99e8badc,Maruti Suzuki Wagon R VXi Minor,Maruti,2013,"1,05,000","39,000 kms",Petrol
+65a8df601781205b99e8badd,Mahindra Scorpio S10,Mahindra,2015,"3,95,000","35,000 kms",Diesel
+65a8df601781205b99e8bade,Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,2017,"2,20,000","30,874 kms",Petrol
+65a8df601781205b99e8badf,Honda City ZX CVT,Honda,2017,"1,70,000","15,000 kms",Diesel
+65a8df601781205b99e8bae0,Maruti Suzuki Wagon R LX BS IV,Maruti,2013,"85,000","29,685 kms",Petrol
+65a8df601781205b99e8bae1,Ford Figo,Ford,2012,"1,75,000","41,000 kms",Diesel
+65a8df601781205b99e8bae2,Hyundai Eon,Hyundai,2013,"1,90,000","25,000 kms",Petrol
+65a8df601781205b99e8bae3,Tata Indigo eCS LS CR4 BS IV,Tata,2017,"2,00,000","1,30,000 kms",Diesel
+65a8df601781205b99e8bae4,Ford EcoSport Ambiente 1.5L TDCi,Ford,2016,"8,30,000","24,530 kms",Diesel
+65a8df601781205b99e8bae5,Tata Indigo eCS LS CR4 BS IV,Tata,2017,"2,00,000","1,30,000 kms",Diesel
+65a8df601781205b99e8bae6,Mahindra Scorpio SLE BS IV,Mahindra,2012,"5,70,000","19,000 kms",Diesel
+65a8df601781205b99e8bae7,Volkswagen Polo Highline Exquisite P,Volkswagen,2014,"3,15,000","60,000 kms",Petrol
+65a8df601781205b99e8bae8,Skoda Fabia Classic 1.2 MPI,Skoda,2010,"1,82,000","60,000 kms",Petrol
+65a8df601781205b99e8bae9,Maruti Suzuki Stingray VXi,Maruti,2015,"3,15,000","30,000 kms",Petrol
+65a8df601781205b99e8baea,I want to sell my car Tata Zest,I,2017,Ask For Price,,
+65a8df601781205b99e8baeb,Chevrolet Spark LS 1.0,Chevrolet,2010,"1,10,000","41,000 kms",Petrol
+65a8df601781205b99e8baec,Renault Duster 110PS Diesel RxZ,Renault,2012,"5,01,000","35,000 kms",Diesel
+65a8df601781205b99e8baed,Honda City,Honda,2015,"4,48,999","54,000 kms",Petrol
+65a8df601781205b99e8baee,Mini Cooper S 1.6,Mini,2013,"18,91,111","13,000 kms",Petrol
+65a8df601781205b99e8baef,Datsun Redi GO S,Datsun,2017,"2,35,000","16,000 kms",Petrol
+65a8df601781205b99e8baf0,Skoda Fabia 1.2L Diesel Ambiente,Skoda,2011,"1,59,500","38,200 kms",Diesel
+65a8df601781205b99e8baf1,Honda Amaze,Honda,2015,"3,44,999","22,000 kms",Petrol
+65a8df601781205b99e8baf2,Honda Amaze,Honda,2015,"3,44,999","22,000 kms",Petrol
+65a8df601781205b99e8baf3,Renault Duster,Renault,2014,"4,49,999","50,000 kms",Diesel
+65a8df601781205b99e8baf4,Mini Cooper S 1.6,Mini,2013,"18,91,111","13,500 kms",Petrol
+65a8df601781205b99e8baf5,Mahindra Scorpio S4,Mahindra,2015,"8,65,000","30,000 kms",Diesel
+65a8df601781205b99e8baf6,Mahindra Scorpio VLX 2WD BS IV,Mahindra,2014,"6,99,000","50,000 kms",Diesel
+65a8df601781205b99e8baf7,Mahindra Quanto C8,Mahindra,2013,"3,75,000","20,000 kms",Diesel
+65a8df601781205b99e8baf8,Ford EcoSport,Ford,2017,"4,89,999","39,000 kms",Petrol
+65a8df601781205b99e8baf9,Honda Brio,Honda,2012,"2,24,999","30,000 kms",Petrol
+65a8df601781205b99e8bafa,I want to sell my car Tata Zest,I,2017,Ask For Price,,
+65a8df601781205b99e8bafb,Volkswagen Vento Highline Plus 1.5 Diesel AT,Volkswagen,2019,"12,00,000","3,600 kms",Diesel
+65a8df601781205b99e8bafc,Hyundai i20 Magna,Hyundai,2009,"1,95,000","32,000 kms",Petrol
+65a8df601781205b99e8bafd,Toyota Corolla Altis Diesel D4DG,Toyota,2010,"3,51,000","38,000 kms",Diesel
+65a8df601781205b99e8bafe,Hyundai Verna Transform SX VTVT,Hyundai,2008,"1,60,000","45,000 kms",Petrol
+65a8df601781205b99e8baff,Toyota Corolla Altis Petrol Ltd,Toyota,2009,"2,40,000","35,000 kms",Petrol
+65a8df601781205b99e8bb00,Honda City 1.5 EXi New,Honda,2005,"90,000","50,000 kms",Petrol
+65a8df601781205b99e8bb01,Hyundai Elite i20 Magna 1.2,Hyundai,2014,"4,15,000","32,000 kms",Petrol
+65a8df601781205b99e8bb02,Skoda Fabia 1.2L Diesel Elegance,Skoda,2011,"1,55,000","45,863 kms",Diesel
+65a8df601781205b99e8bb03,BMW 3 Series 320i,BMW,2011,"6,00,000","60,500 kms",Petrol
+65a8df601781205b99e8bb04,Maruti Suzuki A Star Lxi,Maruti,2011,"1,89,500","12,500 kms",Petrol
+65a8df601781205b99e8bb05,Toyota Etios GD,Toyota,2013,"3,50,000","60,000 kms",Diesel
+65a8df601781205b99e8bb06,Ford Figo Diesel EXI Option,Ford,2012,"2,10,000","35,000 kms",Diesel
+65a8df601781205b99e8bb07,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2014,"3,90,000","35,000 kms",Petrol
+65a8df601781205b99e8bb08,Chevrolet Beat LT Diesel,Chevrolet,2012,"1,35,000","45,000 kms",Diesel
+65a8df601781205b99e8bb09,BMW 7 Series 740Li Sedan,BMW,2009,"16,00,000","35,000 kms",Petrol
+65a8df601781205b99e8bb0a,Mahindra XUV500 W8 AWD 2013,Mahindra,2013,"7,01,000","38,000 kms",Diesel
+65a8df601781205b99e8bb0b,Hyundai i10 Magna 1.2,Hyundai,2014,"2,65,000","18,000 kms",Petrol
+65a8df601781205b99e8bb0c,Hyundai Verna Fluidic New,Hyundai,2015,"5,25,000","35,000 kms",Diesel
+65a8df601781205b99e8bb0d,Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,2013,"3,72,000","13,349 kms",Petrol
+65a8df601781205b99e8bb0e,Maruti Suzuki Ertiga ZXI Plus,Maruti,2016,"6,35,000","29,000 kms",Petrol
+65a8df601781205b99e8bb0f,Ford EcoSport Titanium 1.5L TDCi,Ford,2014,"5,50,000","44,000 kms",Diesel
+65a8df601781205b99e8bb10,Maruti Suzuki Ertiga Vxi,Maruti,2016,"5,75,000","29,000 kms",Petrol
+65a8df601781205b99e8bb11,Maruti Suzuki Ertiga VDi,Maruti,2013,"4,85,000","42,000 kms",Diesel
+65a8df601781205b99e8bb12,Maruti Suzuki Alto LXi BS III,Maruti,2012,"1,55,000","14,000 kms",Petrol
+65a8df601781205b99e8bb13,Hyundai Grand i10 Asta 1.1 CRDi,Hyundai,2014,"3,45,000","49,000 kms",Diesel
+65a8df601781205b99e8bb14,Honda Amaze 1.2 S i VTEC,Honda,2014,"3,25,000","42,000 kms",Petrol
+65a8df601781205b99e8bb15,Hyundai i20 Asta 1.4 CRDI 6 Speed,Hyundai,2012,"3,29,500","36,200 kms",Diesel
+65a8df601781205b99e8bb16,Ford Figo Diesel EXI,Ford,2014,"1,95,000","50,000 kms",Diesel
+65a8df601781205b99e8bb17,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,2015,"2,51,111","55,000 kms",Petrol
+65a8df601781205b99e8bb18,Maruti Suzuki Ertiga ZXi,Maruti,2014,"5,69,999","45,000 kms",Petrol
+65a8df601781205b99e8bb19,Maruti Suzuki Esteem LXi BS III,Maruti,2007,"69,999","51,000 kms",Petrol
+65a8df601781205b99e8bb1a,Maruti Suzuki Ritz VXI,Maruti,2014,"2,99,999","19,000 kms",Petrol
+65a8df601781205b99e8bb1b,Maruti Suzuki Dzire,Maruti,2009,"2,20,000","46,000 kms",Petrol
+65a8df601781205b99e8bb1c,Maruti Suzuki Ritz LDi,Maruti,2013,"3,99,999","33,000 kms",Diesel
+65a8df601781205b99e8bb1d,Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,2013,"3,72,000","13,349 kms",Petrol
+65a8df601781205b99e8bb1e,Maruti Suzuki Dzire VDI,Maruti,2015,"4,50,000","1,04,000 kms",Diesel
+65a8df601781205b99e8bb1f,Toyota Etios Liva G,Toyota,2014,"2,70,000","55,000 kms",Petrol
+65a8df601781205b99e8bb20,Hyundai i20 Sportz 1.4 CRDI,Hyundai,2011,"3,50,000","33,333 kms",Diesel
+65a8df601781205b99e8bb21,Chevrolet Spark,Chevrolet,2012,"1,58,400","33,600 kms",Petrol
+65a8df601781205b99e8bb22,Maruti Suzuki Alto K10 VXi AMT,Maruti,2017,"3,50,000","5,600 kms",Petrol
+65a8df601781205b99e8bb23,Nissan Micra XV,Nissan,2011,"1,79,000","41,000 kms",Petrol
+65a8df601781205b99e8bb24,Maruti Suzuki Swift,Maruti,2007,"1,25,000","70,000 kms",Petrol
+65a8df601781205b99e8bb25,Maruti Suzuki Alto 800,Maruti,2018,"2,00,000","7,500 kms",Petrol
+65a8df601781205b99e8bb26,Honda Amaze 1.5 S i DTEC,Honda,2013,"2,99,000","45,000 kms",Diesel
+65a8df601781205b99e8bb27,Maruti Suzuki Alto 800 Vxi,Maruti,2015,"2,20,000","38,000 kms",Petrol
+65a8df601781205b99e8bb28,Chevrolet Beat,Chevrolet,2015,"1,50,000","30,000 kms",Petrol
+65a8df601781205b99e8bb29,Toyota Corolla,Toyota,2009,"2,75,000","26,000 kms",
+65a8df601781205b99e8bb2a,Honda City 1.5 V MT,Honda,2010,"2,85,000","35,000 kms",Petrol
+65a8df601781205b99e8bb2b,Ford EcoSport Trend 1.5L TDCi,Ford,2016,"8,30,000","24,330 kms",Diesel
+65a8df601781205b99e8bb2c,Hyundai i20 Asta 1.2,Hyundai,2009,"2,10,000","65,480 kms",Petrol
+65a8df601781205b99e8bb2d,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2013,"3,40,000","41,000 kms",Petrol
+65a8df601781205b99e8bb2e,Tata Indica V2 eLS,Tata,2006,"90,000","20,000 kms",Petrol
+65a8df601781205b99e8bb2f,Maruti Suzuki Alto 800 Lxi,Maruti,2018,Ask For Price,"28,028 kms",Petrol
+65a8df601781205b99e8bb30,Hindustan Motors Ambassador,Hindustan,2000,"70,000","2,00,000 kms",Diesel
+65a8df601781205b99e8bb31,Toyota Corolla Altis 1.8 GL,Toyota,2010,"2,89,999","70,000 kms",Petrol
+65a8df601781205b99e8bb32,Toyota Corolla Altis 1.8 J,Toyota,2012,"3,49,999","59,000 kms",Petrol
+65a8df601781205b99e8bb33,Toyota Innova 2.5 GX BS IV 7 STR,Toyota,2012,"8,49,999","99,000 kms",Diesel
+65a8df601781205b99e8bb34,Volkswagen Jetta Highline TDI AT,Volkswagen,2014,"7,49,999","46,000 kms",Diesel
+65a8df601781205b99e8bb35,Volkswagen Polo Comfortline 1.2L P,Volkswagen,2015,"3,99,999","2,800 kms",Petrol
+65a8df601781205b99e8bb36,Volkswagen Polo,Volkswagen,2014,"2,74,999","32,000 kms",Petrol
+65a8df601781205b99e8bb37,Mahindra Scorpio,Mahindra,2015,"9,84,999","22,000 kms",Diesel
+65a8df601781205b99e8bb38,Renault Duster,Renault,2014,"4,49,999","50,000 kms",Diesel
+65a8df601781205b99e8bb39,Honda Amaze,Honda,2015,"3,44,999","22,000 kms",Petrol
+65a8df601781205b99e8bb3a,Nissan Sunny,Nissan,2012,"2,24,999","45,000 kms",Petrol
+65a8df601781205b99e8bb3b,Hyundai Elite i20,Hyundai,2018,"5,99,999","21,000 kms",Petrol
+65a8df601781205b99e8bb3c,Renault Kwid,Renault,2016,"2,44,999","11,000 kms",Petrol
+65a8df601781205b99e8bb3d,Renault Duster,Renault,2013,"3,99,999","41,000 kms",Diesel
+65a8df601781205b99e8bb3e,Ford EcoSport,Ford,2017,"4,89,999","39,000 kms",Petrol
+65a8df601781205b99e8bb3f,Renault Duster,Renault,2014,"4,74,999","50,000 kms",Diesel
+65a8df601781205b99e8bb40,Mahindra Scorpio VLX Airbag,Mahindra,2011,"4,99,999","66,000 kms",Diesel
+65a8df601781205b99e8bb41,Maruti Suzuki Alto 800 Lxi,Maruti,2018,"3,10,000","3,000 kms",Petrol
+65a8df601781205b99e8bb42,Chevrolet Spark LT 1.0,Chevrolet,2010,"85,000","45,000 kms",Petrol
+65a8df601781205b99e8bb43,Datsun Redi GO T O,Datsun,2016,"2,45,000","7,000 kms",Petrol
+65a8df601781205b99e8bb44,Maruti Suzuki Swift RS VDI,Maruti,2010,"1,89,500","38,500 kms",Diesel
+65a8df601781205b99e8bb45,Fiat Punto Emotion 1.2,Fiat,2012,"1,69,500","37,200 kms",Diesel
+65a8df601781205b99e8bb46,Maruti Suzuki Swift RS VDI,Maruti,2010,"1,59,500","43,200 kms",Diesel
+65a8df601781205b99e8bb47,Toyota Etios GD,Toyota,2013,"2,75,000","24,800 kms",Petrol
+65a8df601781205b99e8bb48,Hyundai i20 Sportz 1.4 CRDI,Hyundai,2014,"3,70,000","60,000 kms",Diesel
+65a8df601781205b99e8bb49,Hyundai i10 Sportz 1.2,Hyundai,2010,"1,68,000","45,872 kms",Petrol
+65a8df601781205b99e8bb4a,Chevrolet Beat LT Opt Diesel,Chevrolet,2011,"1,50,000","40,000 kms",Diesel
+65a8df601781205b99e8bb4b,Chevrolet Beat LS Diesel,Chevrolet,2011,"1,45,000","45,000 kms",Diesel
+65a8df601781205b99e8bb4c,Chevrolet Beat LT Diesel,Chevrolet,2012,"98,500","38,000 kms",Diesel
+65a8df601781205b99e8bb4d,Mahindra Scorpio VLX 2WD BS IV,Mahindra,2014,"6,99,000","50,000 kms",Diesel
+65a8df601781205b99e8bb4e,Tata Indigo CS,Tata,2011,"85,000","11,400 kms",Diesel
+65a8df601781205b99e8bb4f,Toyota Corolla Altis 1.8 J,Toyota,2015,"5,75,000","42,000 kms",Petrol
+65a8df601781205b99e8bb50,Honda City 1.5 V MT,Honda,2014,"5,49,000","39,000 kms",Petrol
+65a8df601781205b99e8bb51,Maruti Suzuki Swift VDi,Maruti,2011,"2,09,000","47,000 kms",Diesel
+65a8df601781205b99e8bb52,Hyundai Eon Era Plus,Hyundai,2013,"1,85,000","27,000 kms",Petrol
+65a8df601781205b99e8bb53,Mahindra Scorpio S10,Mahindra,2015,"9,00,000","97,200 kms",Diesel
+65a8df601781205b99e8bb54,Mahindra XUV500,Mahindra,2014,"6,99,999","52,000 kms",Diesel
+65a8df601781205b99e8bb55,Honda Brio,Honda,2012,"2,24,999","30,000 kms",Petrol
+65a8df601781205b99e8bb56,Ford Fiesta,Ford,2011,"2,74,999","55,000 kms",Diesel
+65a8df601781205b99e8bb57,Honda Amaze,Honda,2013,"2,84,999","46,000 kms",Diesel
+65a8df601781205b99e8bb58,Honda City,Honda,2015,"5,99,999","30,000 kms",Diesel
+65a8df601781205b99e8bb59,Maruti Suzuki Wagon R,Maruti,2012,"1,99,999","44,000 kms",Petrol
+65a8df601781205b99e8bb5a,Honda City,Honda,2014,"5,44,999","45,000 kms",Diesel
+65a8df601781205b99e8bb5b,Hyundai i20,Hyundai,2009,"1,99,000","31,000 kms",Petrol
+65a8df601781205b99e8bb5c,Tata Indigo eCS LX TDI BS III,Tata,2016,"3,20,000","1,75,430 kms",Diesel
+65a8df601781205b99e8bb5d,Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,2015,"5,40,000","38,000 kms",Diesel
+65a8df601781205b99e8bb5e,"Commercial , DZire LDI, 2016, for sale",Commercial,...,Ask For Price,,
+65a8df601781205b99e8bb5f,Mahindra Quanto C8,Mahindra,2013,"3,40,000","37,000 kms",Diesel
+65a8df601781205b99e8bb60,Fiat Petra ELX 1.2 PS,Fiat,2008,"75,000","65,000 kms",Petrol
+65a8df601781205b99e8bb61,Skoda Fabia 1.2L Diesel Ambiente,Skoda,2011,"1,59,500","38,200 kms",Diesel
+65a8df601781205b99e8bb62,Mini Cooper S 1.6,Mini,2013,"18,91,111","13,000 kms",Petrol
+65a8df601781205b99e8bb63,Hyundai Santro Xing XS,Hyundai,2005,"49,000","7,500 kms",Petrol
+65a8df601781205b99e8bb64,Maruti Suzuki Ciaz VXi Plus,Maruti,2016,"7,00,000","3,350 kms",Petrol
+65a8df601781205b99e8bb65,Maruti Suzuki Zen VX,Maruti,2000,"55,000","60,000 kms",Petrol
+65a8df601781205b99e8bb66,Honda City,Honda,2015,"4,48,999","54,000 kms",Petrol
+65a8df601781205b99e8bb67,Hyundai Creta 1.6 SX Plus Petrol,Hyundai,2017,"8,95,000","32,000 kms",Petrol
+65a8df601781205b99e8bb68,"Tata indigo ecs LX, 201",Tata,150k,"1,50,000",,
+65a8df601781205b99e8bb69,Mahindra Scorpio SLX,Mahindra,2007,"3,55,000","75,000 kms",Diesel
+65a8df601781205b99e8bb6a,Mahindra Scorpio SLE BS IV,Mahindra,2012,"5,65,000","62,000 kms",Diesel
+65a8df601781205b99e8bb6b,Toyota Innova 2.5 G BS III 8 STR,Toyota,2006,"3,65,000","73,000 kms",Diesel
+65a8df601781205b99e8bb6c,Maruti Suzuki Alto K10 VXi AMT,Maruti,2011,"1,45,000","41,000 kms",Petrol
+65a8df601781205b99e8bb6d,Maruti Suzuki Wagon R LXI BS IV,Maruti,2011,"2,10,000","35,000 kms",Petrol
+65a8df601781205b99e8bb6e,Tata Nano Cx BSIV,Tata,2013,"40,000","2,200 kms",Petrol
+65a8df601781205b99e8bb6f,Maruti Suzuki Alto Std BS IV,Maruti,2013,"1,25,000","39,000 kms",Petrol
+65a8df601781205b99e8bb70,Maruti Suzuki Wagon R LXi BS III,Maruti,2009,"1,35,000","45,000 kms",Petrol
+65a8df601781205b99e8bb71,Maruti Suzuki Swift VXI BSIII,Maruti,2006,"1,35,000","45,000 kms",Petrol
+65a8df601781205b99e8bb72,Tata Sumo Victa EX 10 by 7 Str BSIII,Tata,2012,"2,85,000","65,000 kms",Diesel
+65a8df601781205b99e8bb73,MARUTI SUZUKI DESI,MARUTI,TOUR,"4,00,000",,
+65a8df601781205b99e8bb74,Maruti Suzuki Wagon R LXi BS III,Maruti,2010,"1,45,000","54,870 kms",Petrol
+65a8df601781205b99e8bb75,Maruti Suzuki Alto LXi BS III,Maruti,2010,"1,35,000","34,580 kms",Petrol
+65a8df601781205b99e8bb76,Volkswagen Passat Diesel Comfortline AT,Volkswagen,2009,"4,50,000","97,000 kms",Diesel
+65a8df601781205b99e8bb77,Renault Scala RxL Diesel Travelogue,Renault,2015,"3,75,000","25,000 kms",Diesel
+65a8df601781205b99e8bb78,Mahindra Quanto C8,Mahindra,2013,"3,75,000","20,000 kms",Diesel
+65a8df601781205b99e8bb79,Hyundai Grand i10 Sportz O 1.2 Kappa VTVT,Hyundai,2014,"3,65,000","20,000 kms",Petrol
+65a8df601781205b99e8bb7a,Hyundai i20 Active 1.2 SX,Hyundai,2015,"5,00,000","18,000 kms",Petrol
+65a8df601781205b99e8bb7b,Mahindra Xylo E4,Mahindra,2012,"4,00,000","35,000 kms",Diesel
+65a8df601781205b99e8bb7c,Mahindra Jeep MM 550 XDB,Mahindra,2019,"3,90,000",60 kms,Diesel
+65a8df601781205b99e8bb7d,Renault Duster 110PS Diesel RxZ,Renault,2012,"5,01,000","35,000 kms",Diesel
+65a8df601781205b99e8bb7e,Mahindra Bolero SLE BS IV,Mahindra,2013,"3,30,000","80,200 kms",Diesel
+65a8df601781205b99e8bb7f,Force Motors Force One LX ABS 7 STR,Force,2015,"5,80,000","3,200 kms",Diesel
+65a8df601781205b99e8bb80,Maruti Suzuki SX4,Maruti,2012,"2,65,000","46,000 kms",Diesel
+65a8df601781205b99e8bb81,Mahindra Jeep CL550 MDI,Mahindra,2019,"3,79,000","0,000 kms",Diesel
+65a8df601781205b99e8bb82,Maruti Suzuki Alto 800,Maruti,2015,"2,19,000","5,000 kms",Petrol
+65a8df601781205b99e8bb83,Mahindra Jeep CL550 MDI,Mahindra,2018,"3,85,000",588 kms,Diesel
+65a8df601781205b99e8bb84,Toyota Etios,Toyota,2011,"2,75,000","36,000 kms",Diesel
+65a8df601781205b99e8bb85,Volkswagen Polo,Volkswagen,2015,"3,30,000","38,000 kms",Diesel
+65a8df601781205b99e8bb86,Honda City ZX VTEC,Honda,2008,"1,10,000","45,000 kms",Petrol
+65a8df601781205b99e8bb87,Maruti Suzuki Wagon R LX BS III,Maruti,2006,"80,000","71,200 kms",Petrol
+65a8df601781205b99e8bb88,Honda City VX O MT Diesel,Honda,2016,"5,19,000","52,000 kms",Diesel
+65a8df601781205b99e8bb89,Mahindra Thar CRDe 4x4 AC,Mahindra,2016,"7,30,000","29,000 kms",Diesel
+65a8df601781205b99e8bb8a,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,2015,"14,75,000","47,000 kms",Diesel
+65a8df601781205b99e8bb8b,Audi A4 1.8 TFSI Multitronic Premium Plus,Audi,2009,"6,99,000","47,000 kms",Petrol
+65a8df601781205b99e8bb8c,Mercedes Benz GLA Class 200 CDI Sport,Mercedes,2015,"20,00,000","20,000 kms",Diesel
+65a8df601781205b99e8bb8d,Land Rover Freelander 2 SE,Land,2015,"21,00,000","30,000 kms",Diesel
+65a8df601781205b99e8bb8e,Renault Kwid RXT,Renault,2017,"3,40,000","5,000 kms",Petrol
+65a8df601781205b99e8bb8f,Tata Aria Pleasure 4X2,Tata,2014,"3,90,000","35,000 kms",Diesel
+65a8df601781205b99e8bb90,Mercedes Benz B Class B180 Sports,Mercedes,2014,"14,00,000","31,000 kms",Petrol
+65a8df601781205b99e8bb91,Datsun GO T O,Datsun,2016,"2,45,000","7,000 kms",Petrol
+65a8df601781205b99e8bb92,Tata Indigo eCS LX TDI BS III,Tata,2016,"3,20,000","1,75,430 kms",Diesel
+65a8df601781205b99e8bb93,Tata Indigo eCS LX TDI BS III,Tata,2016,"3,20,000","1,75,400 kms",Diesel
+65a8df601781205b99e8bb94,Honda Jazz VX MT,Honda,2016,"4,50,000","41,000 kms",Petrol
+65a8df601781205b99e8bb95,Honda Amaze 1.2 S i VTEC,Honda,2014,"3,11,000","33,000 kms",Petrol
+65a8df601781205b99e8bb96,Honda Amaze,Honda,2013,"2,84,999","46,000 kms",Diesel
+65a8df601781205b99e8bb97,Honda City,Honda,2012,"3,99,999","45,000 kms",Petrol
+65a8df601781205b99e8bb98,Honda City,Honda,2015,"5,99,999","39,000 kms",Diesel
+65a8df601781205b99e8bb99,Honda Amaze,Honda,2015,"3,44,999","22,000 kms",Petrol
+65a8df601781205b99e8bb9a,Audi A4 1.8 TFSI Multitronic Premium Plus,Audi,2009,"6,99,000","47,000 kms",Petrol
+65a8df601781205b99e8bb9b,Force Motors Force One LX ABS 7 STR,Force,2015,"5,80,000","3,200 kms",Diesel
+65a8df601781205b99e8bb9c,Mahindra Scorpio S4,Mahindra,2015,"8,55,000","30,000 kms",Diesel
+65a8df601781205b99e8bb9d,Hyundai i20 Active 1.4L SX O,Hyundai,2015,"5,35,000","37,000 kms",Diesel
+65a8df601781205b99e8bb9e,Mini Cooper S,Mini,2013,"18,91,111","13,000 kms",Petrol
+65a8df601781205b99e8bb9f,Maruti Suzuki Ciaz ZXI Plus,Maruti,2017,"6,99,000","14,000 kms",Petrol
+65a8df601781205b99e8bba0,Chevrolet Tavera Neo,Chevrolet,2013,"3,75,000","55,000 kms",Diesel
+65a8df601781205b99e8bba1,Honda Amaze,Honda,2013,"2,84,999","46,000 kms",Diesel
+65a8df601781205b99e8bba2,Hyundai Eon Sportz,Hyundai,2012,"1,78,000","30,000 kms",Petrol
+65a8df601781205b99e8bba3,Tata Sumo Gold Select Variant,Tata,2013,"3,00,000","50,000 kms",Diesel
+65a8df601781205b99e8bba4,Maruti Suzuki Wagon R 1.0,Maruti,2003,"90,000","45,000 kms",Petrol
+65a8df601781205b99e8bba5,Maruti Suzuki Esteem VXi BS III,Maruti,2006,"95,000","45,000 kms",Petrol
+65a8df601781205b99e8bba6,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,2015,"2,55,000","9,300 kms",Petrol
+65a8df601781205b99e8bba7,Chevrolet Enjoy 1.4 LS 8 STR,Chevrolet,2013,"2,45,000","55,000 kms",Diesel
+65a8df601781205b99e8bba8,Hyundai i20 Asta 1.4 CRDI 6 Speed,Hyundai,2012,"3,29,500","36,200 kms",Diesel
+65a8df601781205b99e8bba9,Ford Figo Diesel EXI,Ford,2014,"1,95,000","50,000 kms",Diesel
+65a8df601781205b99e8bbaa,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,2015,"2,51,111","55,000 kms",Petrol
+65a8df601781205b99e8bbab,Maruti Suzuki Ertiga ZXi,Maruti,2014,"5,69,999","45,000 kms",Petrol
+65a8df601781205b99e8bbac,Maruti Suzuki Esteem LXi BS III,Maruti,2007,"69,999","51,000 kms",Petrol
+65a8df601781205b99e8bbad,Maruti Suzuki Ritz VXI,Maruti,2014,"2,99,999","19,000 kms",Petrol
+65a8df601781205b99e8bbae,Maruti Suzuki Dzire,Maruti,2009,"2,20,000","46,000 kms",Petrol
+65a8df601781205b99e8bbaf,Maruti Suzuki Ritz LDi,Maruti,2013,"3,99,999","33,000 kms",Diesel
+65a8df601781205b99e8bbb0,Maruti Suzuki SX4 ZXI MT,Maruti,2010,"2,49,999","36,000 kms",Petrol
+65a8df601781205b99e8bbb1,Maruti Suzuki Wagon R 1.0 VXi,Maruti,2015,"2,89,999","22,000 kms",Petrol
+65a8df601781205b99e8bbb2,Mini Cooper S 1.6,Mini,2013,"18,91,111","13,500 kms",Petrol
+65a8df601781205b99e8bbb3,Nissan Terrano XL D Plus,Nissan,2015,"4,99,999","60,000 kms",Diesel
+65a8df601781205b99e8bbb4,Renault Duster 85 PS RxE Diesel,Renault,2013,"4,89,999","27,000 kms",Diesel
+65a8df601781205b99e8bbb5,Renault Duster 85 PS RxE Diesel,Renault,2014,"4,89,999","59,000 kms",Diesel
+65a8df601781205b99e8bbb6,Renault Duster 85 PS RxL Diesel,Renault,2015,"5,49,999","19,000 kms",Diesel
+65a8df601781205b99e8bbb7,Maruti Suzuki Dzire ZXI,Maruti,2013,"3,80,000","30,000 kms",Petrol
+65a8df601781205b99e8bbb8,Renault Kwid RXT Opt,Renault,2018,"3,25,000","15,000 kms",Petrol
+65a8df601781205b99e8bbb9,Maruti Suzuki Maruti 800 Std,Maruti,2003,"57,000","56,758 kms",Petrol
+65a8df601781205b99e8bbba,Renault Kwid 1.0 RXT AMT,Renault,2018,"3,49,999","10,000 kms",Petrol
+65a8df601781205b99e8bbbb,Renault Lodgy 85 PS RXL,Renault,2018,"6,89,999","20,000 kms",Diesel
+65a8df601781205b99e8bbbc,Renault Scala RxL Diesel,Renault,2014,"3,49,999","49,000 kms",Diesel
+65a8df601781205b99e8bbbd,Hyundai Grand i10 Asta 1.2 Kappa VTVT O,Hyundai,2014,"4,10,000","41,000 kms",Petrol
+65a8df601781205b99e8bbbe,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2011,"2,25,000","45,000 kms",Petrol
+65a8df601781205b99e8bbbf,Chevrolet Beat LS Petrol,Chevrolet,2010,"1,20,000","43,000 kms",Petrol
+65a8df601781205b99e8bbc0,Tata Indigo eCS LX TDI BS III,Tata,2016,"3,20,000","1,75,430 kms",Diesel
+65a8df601781205b99e8bbc1,Hyundai Santro Xing XO eRLX Euro III,Hyundai,2000,"59,000","56,450 kms",Petrol
+65a8df601781205b99e8bbc2,Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,2015,"5,40,000","38,000 kms",Diesel
+65a8df601781205b99e8bbc3,"Commercial , DZire LDI, 2016, for sale",Commercial,...,Ask For Price,,
+65a8df601781205b99e8bbc4,Chevrolet Beat LS Petrol,Chevrolet,2010,"80,000","56,000 kms",Petrol
+65a8df601781205b99e8bbc5,Mahindra Quanto C8,Mahindra,2013,"3,40,000","37,000 kms",Diesel
+65a8df601781205b99e8bbc6,Fiat Petra ELX 1.2 PS,Fiat,2008,"75,000","65,000 kms",Petrol
+65a8df601781205b99e8bbc7,Chevrolet Beat LS Petrol,Chevrolet,2015,"2,20,000","32,700 kms",Petrol
+65a8df601781205b99e8bbc8,Skoda Fabia 1.2L Diesel Ambiente,Skoda,2011,"1,59,500","38,200 kms",Diesel
+65a8df601781205b99e8bbc9,Ford EcoSport Titanium 1.5L TDCi,Ford,2016,"5,99,000","30,000 kms",Diesel
+65a8df601781205b99e8bbca,Hyundai Accent GLX,Hyundai,2006,"80,000","56,000 kms",Petrol
+65a8df601781205b99e8bbcb,Yama,Yamaha,r 15,"55,000",,
+65a8df601781205b99e8bbcc,Maruti Suzuki Swift LDi,Maruti,2010,Ask For Price,"52,000 kms",Diesel
+65a8df601781205b99e8bbcd,Mahindra TUV300 T4 Plus,Mahindra,2016,"6,75,000","9,000 kms",Diesel
+65a8df601781205b99e8bbce,Mini Cooper S 1.6,Mini,2013,"18,91,111","13,000 kms",Petrol
+65a8df601781205b99e8bbcf,Mini Cooper S 1.6,Mini,2013,"18,91,111","13,000 kms",Petrol
+65a8df601781205b99e8bbd0,Tata Indica V2 Xeta e GLE,Tata,2008,"1,50,000","11,000 kms",Petrol
+65a8df601781205b99e8bbd1,Mini Cooper S,Mini,2013,"18,91,111","13,000 kms",Petrol
+65a8df601781205b99e8bbd2,Tata Indigo CS LS DiCOR,Tata,2009,"72,500","46,000 kms",Diesel
+65a8df601781205b99e8bbd3,Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,2019,"6,10,000",73 kms,Petrol
+65a8df601781205b99e8bbd4,Mahindra Scorpio VLX Special Edition BS III,Mahindra,2004,"2,30,000","1,60,000 kms",Diesel
+65a8df601781205b99e8bbd5,Tata Indica eV2 LS,Tata,2017,Ask For Price,"84,000 kms",Diesel
+65a8df601781205b99e8bbd6,Honda Accord,Honda,2009,"1,75,000","58,559 kms",Petrol
+65a8df601781205b99e8bbd7,Mahindra Scorpio S4,Mahindra,2015,"8,55,000","30,000 kms",Diesel
+65a8df601781205b99e8bbd8,Chevrolet Tavera Neo,Chevrolet,2013,"3,75,000","55,000 kms",Diesel
+65a8df601781205b99e8bbd9,Ford EcoSport Titanium 1.5 TDCi,Ford,2014,"5,20,000","57,000 kms",Diesel
+65a8df601781205b99e8bbda,Maruti Suzuki Ertiga,Maruti,2015,"5,24,999","50,000 kms",Diesel
+65a8df601781205b99e8bbdb,Honda Amaze,Honda,2014,"2,99,999","37,000 kms",Petrol
+65a8df601781205b99e8bbdc,Maruti Suzuki Dzire,Maruti,2012,"2,99,999","40,000 kms",Petrol
+65a8df601781205b99e8bbdd,Honda City,Honda,2011,"2,84,999","55,000 kms",Petrol
+65a8df601781205b99e8bbde,Mahindra Scorpio 2.6 CRDe,Mahindra,2007,"2,20,000","1,70,000 kms",Diesel
+65a8df601781205b99e8bbdf,Maruti Suzuki Dzire,Maruti,2014,"4,24,999","55,000 kms",Diesel
+65a8df601781205b99e8bbe0,Honda City,Honda,2015,"6,44,999","39,000 kms",Petrol
+65a8df601781205b99e8bbe1,Honda Mobilio,Honda,2014,"3,99,999","44,000 kms",Petrol
+65a8df601781205b99e8bbe2,Toyota Corolla Altis,Toyota,2009,"1,99,999","65,000 kms",Petrol
+65a8df601781205b99e8bbe3,Honda City,Honda,2014,"5,84,999","39,000 kms",Petrol
+65a8df601781205b99e8bbe4,Skoda Laura,Skoda,2012,"3,49,999","44,000 kms",Diesel
+65a8df601781205b99e8bbe5,Renault Duster,Renault,2015,"4,49,999","49,000 kms",Diesel
+65a8df601781205b99e8bbe6,Maruti Suzuki Ertiga,Maruti,2018,"7,99,999","9,000 kms",Diesel
+65a8df601781205b99e8bbe7,Maruti Suzuki Dzire,Maruti,2015,"4,44,999","45,000 kms",Diesel
+65a8df601781205b99e8bbe8,Mahindra XUV500,Mahindra,2014,"6,49,999","47,000 kms",Diesel
+65a8df601781205b99e8bbe9,Hyundai Verna Fluidic,Hyundai,2012,"4,44,999","40,000 kms",Diesel
+65a8df601781205b99e8bbea,Maruti Suzuki Vitara Brezza,Maruti,2016,"6,89,999","29,000 kms",Diesel
+65a8df601781205b99e8bbeb,Maruti Suzuki Wagon R,Maruti,2016,"3,44,999","15,000 kms",Petrol
+65a8df601781205b99e8bbec,Mahindra Scorpio,Mahindra,2015,"9,44,999","45,000 kms",Diesel
+65a8df601781205b99e8bbed,Honda Amaze,Honda,2014,"2,74,999","35,000 kms",Petrol
+65a8df601781205b99e8bbee,Mahindra XUV500,Mahindra,2013,"6,89,999","80,000 kms",Diesel
+65a8df601781205b99e8bbef,Mahindra Scorpio,Mahindra,2013,"5,74,999","68,000 kms",Diesel
+65a8df601781205b99e8bbf0,Skoda Laura,Skoda,2013,"3,74,999","50,000 kms",Diesel
+65a8df601781205b99e8bbf1,Volkswagen Polo,Volkswagen,2010,"1,99,999","60,000 kms",Diesel
+65a8df601781205b99e8bbf2,Hyundai Elite i20,Hyundai,2016,"5,49,999","9,000 kms",Petrol
+65a8df601781205b99e8bbf3,Tata Manza Aura Quadrajet,Tata,2012,"1,30,000","72,000 kms",Diesel
+65a8df601781205b99e8bbf4,Chevrolet Sail UVA Petrol LT ABS,Chevrolet,2013,"2,10,000","60,000 kms",Petrol
+65a8df601781205b99e8bbf5,Renault Duster 110 PS RxZ Diesel Plus,Renault,2012,"5,01,000","38,000 kms",Diesel
+65a8df601781205b99e8bbf6,Hyundai Verna Fluidic 1.6 VTVT SX,Hyundai,2013,"4,01,000","45,000 kms",Diesel
+65a8df601781205b99e8bbf7,Audi A4 2.0 TDI 177bhp Premium,Audi,2012,"13,50,000","40,000 kms",Diesel
+65a8df601781205b99e8bbf8,Hyundai Elantra SX,Hyundai,2013,"6,00,000","20,000 kms",Petrol
+65a8df601781205b99e8bbf9,Mahindra Scorpio VLX 4WD Airbag,Mahindra,2013,"6,10,000","35,000 kms",Diesel
+65a8df601781205b99e8bbfa,Mahindra KUV100 K8 D 6 STR,Mahindra,2016,"4,00,000","20,000 kms",Diesel
+65a8df601781205b99e8bbfb,Renault Scala RxL Diesel Travelogue,Renault,2015,"3,75,000","25,000 kms",Diesel
+65a8df601781205b99e8bbfc,Mahindra Quanto C8,Mahindra,2013,"3,75,000","20,000 kms",Diesel
+65a8df601781205b99e8bbfd,Hyundai Grand i10 Sportz O 1.2 Kappa VTVT,Hyundai,2014,"3,65,000","20,000 kms",Petrol
+65a8df601781205b99e8bbfe,Hyundai i20 Active 1.2 SX,Hyundai,2015,"5,00,000","18,000 kms",Petrol
+65a8df601781205b99e8bbff,Mahindra Xylo E4,Mahindra,2012,"4,00,000","35,000 kms",Diesel
+65a8df601781205b99e8bc00,Hyundai Grand i10,Hyundai,2017,"5,24,999","6,821 kms",Petrol
+65a8df601781205b99e8bc01,Hyundai i20,Hyundai,2014,"4,49,999","23,000 kms",Petrol
+65a8df601781205b99e8bc02,Hyundai Eon,Hyundai,2014,"1,74,999","14,000 kms",Petrol
+65a8df601781205b99e8bc03,Hyundai i10,Hyundai,2012,"2,44,999","38,000 kms",Petrol
+65a8df601781205b99e8bc04,Hyundai i20 Active,Hyundai,2015,"5,74,999","35,000 kms",Diesel
+65a8df601781205b99e8bc05,Datsun Redi GO,Datsun,2017,"2,44,999","22,000 kms",Petrol
+65a8df601781205b99e8bc06,Toyota Etios Liva,Toyota,2011,"2,39,999","41,000 kms",Petrol
+65a8df601781205b99e8bc07,Hyundai Accent,Hyundai,2010,"99,999","45,000 kms",Petrol
+65a8df601781205b99e8bc08,Hyundai Verna,Hyundai,2014,"4,89,999","44,000 kms",Diesel
+65a8df601781205b99e8bc09,Maruti Suzuki Swift,Maruti,2013,"3,24,999","45,000 kms",Diesel
+65a8df601781205b99e8bc0a,Toyota Fortuner,Toyota,2011,"10,74,999","52,000 kms",Diesel
+65a8df601781205b99e8bc0b,Hyundai i10 Sportz,Hyundai,2012,"2,30,000","34,000 kms",Petrol
+65a8df601781205b99e8bc0c,Mahindra Bolero Power Plus SLE,Mahindra,2018,"6,99,000","1,800 kms",Diesel
+65a8df601781205b99e8bc0d,selling car Ta,selling,Zest,Ask For Price,,
+65a8df601781205b99e8bc0e,Mahindra XUV500,Mahindra,2015,"10,00,000","15,000 kms",Diesel
+65a8df601781205b99e8bc0f,Honda City 1.5 V MT Exclusive,Honda,2010,"2,40,000","4,00,000 kms",Petrol
+65a8df601781205b99e8bc10,Chevrolet Spark LT 1.0 Airbag,Chevrolet,2009,"1,10,000","44,000 kms",Petrol
+65a8df601781205b99e8bc11,Mahindra Jeep MM 550 XDB,Mahindra,2019,"3,90,000",60 kms,Diesel
+65a8df601781205b99e8bc12,Renault Duster 110PS Diesel RxZ,Renault,2012,"5,01,000","35,000 kms",Diesel
+65a8df601781205b99e8bc13,Mahindra XUV500,Mahindra,2016,"11,30,000","72,000 kms",Diesel
+65a8df601781205b99e8bc14,Tata Indigo eCS VX CR4 BS IV,Tata,2014,"2,50,000","40,000 kms",Diesel
+65a8df601781205b99e8bc15,Tata Zest 90,Tata,/-Rs,Ask For Price,,
+65a8df601781205b99e8bc16,Mahindra Bolero SLE BS IV,Mahindra,2013,"3,30,000","80,200 kms",Diesel
+65a8df601781205b99e8bc17,Force Motors Force One LX ABS 7 STR,Force,2015,"5,80,000","3,200 kms",Diesel
+65a8df601781205b99e8bc18,Skoda Rapid Elegance 1.6 TDI CR MT,Skoda,2013,"3,40,000","48,000 kms",Diesel
+65a8df601781205b99e8bc19,Tata Vista Quadrajet VX,Tata,2011,"1,20,000","90,000 kms",Diesel
+65a8df601781205b99e8bc1a,Maruti Suzuki Alto K10 VXi AT,Maruti,2015,"2,65,000","12,000 kms",Petrol
+65a8df601781205b99e8bc1b,Maruti Suzuki SX4,Maruti,2012,"2,65,000","46,000 kms",Diesel
+65a8df601781205b99e8bc1c,Maruti Suzuki Zen LXi BS III,Maruti,2003,"85,000","69,900 kms",Petrol
+65a8df601781205b99e8bc1d,Mahindra Jeep CL550 MDI,Mahindra,2019,"3,79,000","0,000 kms",Diesel
+65a8df601781205b99e8bc1e,Hyundai i10 Magna 1.2,Hyundai,2011,"1,75,000","45,000 kms",Petrol
+65a8df601781205b99e8bc1f,Maruti Suzuki Alto 800,Maruti,2015,"2,19,000","5,000 kms",Petrol
+65a8df601781205b99e8bc20,Maruti Suzuki Swift Dzire Tour LDi,Maruti,2016,"3,50,000","1,66,000 kms",Diesel
+65a8df601781205b99e8bc21,Honda City ZX EXi,Honda,2008,"1,49,000","42,000 kms",Petrol
+65a8df601781205b99e8bc22,Mahindra Jeep CL550 MDI,Mahindra,2018,"3,85,000",588 kms,Diesel
+65a8df601781205b99e8bc23,Mahindra Jeep MM 550 XDB,Mahindra,2006,"4,25,000",122 kms,Diesel
+65a8df601781205b99e8bc24,Chevrolet Beat Diesel,Chevrolet,2017,"1,50,000","62,000 kms",Diesel
+65a8df601781205b99e8bc25,Honda City 1.5 S MT,Honda,2010,"2,25,000","70,000 kms",Petrol
+65a8df601781205b99e8bc26,Maruti Suzuki Swift Dzire car,Maruti,sale,"3,00,000",,
+65a8df601781205b99e8bc27,Hyundai Verna 1.4 VTVT,Hyundai,2014,"3,75,000","36,000 kms",Petrol
+65a8df601781205b99e8bc28,Toyota Innova 2.5 E MS 7 STR BS IV,Toyota,2012,"7,70,000",0 kms,Diesel
+65a8df601781205b99e8bc29,Maruti Suzuki Alto 800 Lxi,Maruti,2018,Ask For Price,"24,000 kms",Petrol
+65a8df601781205b99e8bc2a,Maruti Suzuki Maruti 800 Std – Befo,Maruti,1995,"30,000","55,000 kms",Petrol
+65a8df601781205b99e8bc2b,Toyota Etios,Toyota,2011,"2,75,000","36,000 kms",Diesel
+65a8df601781205b99e8bc2c,Volkswagen Polo,Volkswagen,2015,"3,30,000","38,000 kms",Diesel
+65a8df601781205b99e8bc2d,Maruti Suzuki Swift,Maruti,2014,"3,35,000","55,000 kms",Diesel
+65a8df601781205b99e8bc2e,Hyundai Elite i20 Asta 1.4 CRDI,Hyundai,2015,"4,50,000","20,000 kms",Diesel
+65a8df601781205b99e8bc2f,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2012,"2,25,000","40,000 kms",Petrol
+65a8df601781205b99e8bc30,Maruti Suzuki Swift Dzire Tour (Gat,Maruti,ara),"3,00,000",,
+65a8df601781205b99e8bc31,Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,2004,"80,000","50,000 kms",Petrol
+65a8df601781205b99e8bc32,Tata Indigo LX TDI BS III,Tata,2016,"1,30,000","1,04,000 kms",Diesel
+65a8df601781205b99e8bc33,Volkswagen Vento Konekt Diesel Highline,Volkswagen,2011,"2,45,000","65,000 kms",Diesel
+65a8df601781205b99e8bc34,Mercedes Benz C Class 200 CDI Classic,Mercedes,2002,"3,99,000","41,000 kms",Petrol
+65a8df601781205b99e8bc35,Maruti Suzuki Ertiga VDi,Maruti,2013,"4,50,000","90,000 kms",Diesel
+65a8df601781205b99e8bc36,URJE,URJENT,SELL,"1,80,000",,
+65a8df601781205b99e8bc37,Honda City,Honda,2000,"65,000","80,000 kms",Petrol
+65a8df601781205b99e8bc38,Hyundai Santro Xing GLS,Hyundai,2006,"75,000","46,000 kms",Petrol
+65a8df601781205b99e8bc39,Maruti Suzuki Omni Limited Edition,Maruti,2001,"70,000","70,000 kms",Petrol
+65a8df601781205b99e8bc3a,Hyundai Sonata Transform 2.4 GDi MT,Hyundai,2017,"1,90,000","36,469 kms",Diesel
+65a8df601781205b99e8bc3b,Hyundai Elite i20 Sportz 1.2,Hyundai,2018,"6,00,000","7,800 kms",Petrol
+65a8df601781205b99e8bc3c,Volkswagen Vento Konekt Diesel Highline,Volkswagen,2011,"2,45,000","65,000 kms",Diesel
+65a8df601781205b99e8bc3d,Maruti Suzuki Alto 800 Lxi,Maruti,2017,"2,40,000","60,000 kms",Petrol
+65a8df601781205b99e8bc3e,Maruti Suzuki Alto LXi BS III,Maruti,2011,"1,55,000","32,000 kms",Petrol
+65a8df601781205b99e8bc3f,Honda Jazz S MT,Honda,2009,"1,69,999","24,695 kms",Petrol
+65a8df601781205b99e8bc40,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,2017,"4,50,000","15,141 kms",Petrol
+65a8df601781205b99e8bc41,Maruti Suzuki Zen LXi BSII,Maruti,2001,"40,000","40,000 kms",Petrol
+65a8df601781205b99e8bc42,Mahindra Scorpio W Turbo 2.6DX 9 Seater,Mahindra,2012,"1,65,000","65,000 kms",Diesel
+65a8df601781205b99e8bc43,Swift Dzire Tour 27 Dec 2016 Regis,Swift,tion,"3,70,000",,
+65a8df601781205b99e8bc44,Maruti Suzuki Alto K10 VXi,Maruti,2014,"2,70,000","22,000 kms",Petrol
+65a8df601781205b99e8bc45,Hyundai Grand i10 Asta 1.2 Kappa VTVT,Hyundai,2016,"2,80,000","59,910 kms",Diesel
+65a8df601781205b99e8bc46,Mahindra XUV500 W8,Mahindra,2012,"5,60,000","1,00,000 kms",Diesel
+65a8df601781205b99e8bc47,Hyundai Creta 1.6 SX Plus Petrol,Hyundai,2016,"9,50,000","25,000 kms",Petrol
+65a8df601781205b99e8bc48,Hyundai i20 Magna O 1.2,Hyundai,2013,"3,10,000","35,000 kms",Petrol
+65a8df601781205b99e8bc49,Renault Duster 85 PS RxL Explore LE,Renault,2015,"7,15,000","65,000 kms",Diesel
+65a8df601781205b99e8bc4a,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,2014,"3,40,000","35,000 kms",Petrol
+65a8df601781205b99e8bc4b,Honda Brio V MT,Honda,2012,"2,35,000","33,000 kms",Petrol
+65a8df601781205b99e8bc4c,Mahindra TUV300 T4 Plus,Mahindra,2017,"6,10,000","68,000 kms",Diesel
+65a8df601781205b99e8bc4d,Chevrolet Spark LS 1.0,Chevrolet,2010,"95,000","23,000 kms",Petrol
+65a8df601781205b99e8bc4e,Mahindra TUV300 T8,Mahindra,2018,"10,00,000","4,500 kms",Diesel
+65a8df601781205b99e8bc4f,Maruti Suzuki Swift Dzire Tour LDi,Maruti,2015,"2,20,000","1,29,000 kms",Diesel
+65a8df601781205b99e8bc50,Nissan X Trail Select Variant,Nissan,2019,"12,00,000",300 kms,Diesel
+65a8df601781205b99e8bc51,Maruti Suzuki Alto 800 Vxi,Maruti,2015,"2,30,000","5,000 kms",Petrol
+65a8df601781205b99e8bc52,Ford Ikon 1.3 CLXi NXt Finesse,Ford,2001,"45,000","65,000 kms",Petrol
+65a8df601781205b99e8bc53,Toyota Fortuner 3.0 4x4 MT,Toyota,2010,"9,40,000","1,31,000 kms",Diesel
+65a8df601781205b99e8bc54,Tata Manza ELAN Quadrajet,Tata,2010,"1,55,555","1,11,111 kms",Petrol
+65a8df601781205b99e8bc55,Tata zest x,Tata,odel,"3,20,000",,
+65a8df601781205b99e8bc56,Mahindra xyl,Mahindra,2 bs,"3,50,000",,
+65a8df601781205b99e8bc57,Mercedes Benz A Class A 180 Sport Petrol,Mercedes,2013,"15,00,000","14,000 kms",Petrol
+65a8df601781205b99e8bc58,Chevrolet Beat LS Diesel,Chevrolet,2016,"2,10,000","22,000 kms",Diesel
+65a8df601781205b99e8bc59,Ford EcoSport Trend 1.5L TDCi,Ford,2013,"4,95,000","38,000 kms",Diesel
+65a8df601781205b99e8bc5a,Tata Indigo LS,Tata,2016,"1,25,000","70,000 kms",Diesel
+65a8df601781205b99e8bc5b,Hyundai i20 Magna 1.2,Hyundai,2010,"1,95,000","36,000 kms",Petrol
+65a8df601781205b99e8bc5c,Volkswagen Vento Highline Plus 1.5 Diesel AT,Volkswagen,2015,"5,50,000","34,000 kms",Diesel
+65a8df601781205b99e8bc5d,Renault Kwid RXT,Renault,2015,"2,70,000","43,000 kms",Petrol
+65a8df601781205b99e8bc5e,Used Commercial Maruti Omn,Used,arry,"1,50,000",,
+65a8df601781205b99e8bc5f,Ford EcoSport Titanium 1.5L TDCi,Ford,2014,"5,00,000","40,000 kms",Diesel
+65a8df601781205b99e8bc60,Honda Amaze 1.5 E i DTEC,Honda,2016,"2,40,000","1,60,000 kms",Diesel
+65a8df601781205b99e8bc61,Hyundai Verna 1.6 EX VTVT,Hyundai,2017,"8,00,000","12,000 kms",Petrol
+65a8df601781205b99e8bc62,BMW 5 Series 520d Sedan,BMW,2011,"12,99,000","49,000 kms",Diesel
+65a8df601781205b99e8bc63,Skoda Superb 1.8 TFSI AT,Skoda,2011,"5,30,000","68,000 kms",Petrol
+65a8df601781205b99e8bc64,Audi Q3 2.0 TDI quattro Premium,Audi,2013,"14,99,000","37,000 kms",Diesel
+65a8df601781205b99e8bc65,Mahindra Bolero DI BSII,Mahindra,2012,"2,20,000","59,466 kms",Diesel
+65a8df601781205b99e8bc66,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,2011,Ask For Price,"16,000 kms",Petrol
+65a8df601781205b99e8bc67,Mahindra Scorpio S10,Mahindra,2015,"9,00,000","97,200 kms",Diesel
+65a8df601781205b99e8bc68,Ford Figo Duratorq Diesel Titanium 1.4,Ford,2012,"2,50,000","99,000 kms",Diesel
+65a8df601781205b99e8bc69,Maruti Suzuki Wagon R VXI BS IV,Maruti,2018,"3,95,000","25,500 kms",Petrol
+65a8df601781205b99e8bc6a,Mahindra Logan Diesel 1.5 DLS,Mahindra,2009,"1,30,000","66,000 kms",Petrol
+65a8df601781205b99e8bc6b,Tata Nano GenX XMA,Tata,2010,"32,000","44,005 kms",Petrol
+65a8df601781205b99e8bc6c,Mahindra TUV300 T4 Plus,Mahindra,2016,"5,40,000","35,000 kms",Diesel
+65a8df601781205b99e8bc6d,Mahindra TUV300 T4 Plus,Mahindra,2016,"5,40,000","35,000 kms",Diesel
+65a8df601781205b99e8bc6e,Hyundai Elite i20 Magna 1.2,Hyundai,2015,"4,05,000","28,000 kms",Petrol
+65a8df601781205b99e8bc6f,Hyundai Elite i20 Magna 1.2,Hyundai,2015,"4,00,000","30,000 kms",Petrol
+65a8df601781205b99e8bc70,Honda City SV,Honda,2017,"7,60,000","4,000 kms",Petrol
+65a8df601781205b99e8bc71,Maruti Suzuki Baleno Delta 1.2,Maruti,2016,"5,00,000","28,000 kms",Petrol
+65a8df601781205b99e8bc72,Ford Figo Petrol LXI,Ford,2011,"1,75,000","75,000 kms",Petrol
+65a8df601781205b99e8bc73,Mahindra Scorpio S10,Mahindra,2015,"9,00,000","97,200 kms",Diesel
+65a8df601781205b99e8bc74,Honda City,Honda,2017,"7,50,000","3,000 kms",Petrol
+65a8df601781205b99e8bc75,Hyundai Elite i20 Magna 1.2,Hyundai,2015,"4,19,000","20,000 kms",Petrol
+65a8df601781205b99e8bc76,Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,2004,"90,000","50,000 kms",Petrol
+65a8df601781205b99e8bc77,Hyundai Eon Era Plus,Hyundai,2018,"1,40,000","2,110 kms",Petrol
+65a8df601781205b99e8bc78,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,2015,"15,40,000","43,222 kms",Petrol
+65a8df601781205b99e8bc79,Hyundai i10 Magna 1.2 Kappa2,Hyundai,2008,"2,75,000","1,00,200 kms",Petrol
+65a8df601781205b99e8bc7a,Toyota Corolla H2,Toyota,2003,"1,50,000","1,00,000 kms",Petrol
+65a8df601781205b99e8bc7b,Maruti Suzuki Swift Dzire Tour VXi,Maruti,2011,"2,30,000",65 kms,Petrol
+65a8df601781205b99e8bc7c,Tata Indigo CS eLS BS IV,Tata,2015,"1,23,000","1,00,000 kms",Diesel
+65a8df601781205b99e8bc7d,Mahindra Scorpio S10,Mahindra,2015,"9,00,000","97,200 kms",Diesel
+65a8df601781205b99e8bc7e,Mahindra Scorpio S10,Mahindra,2015,"9,00,000","97,200 kms",Diesel
+65a8df601781205b99e8bc7f,Hyundai Xcent Base 1.1 CRDi,Hyundai,2016,"3,00,000","1,40,000 kms",Diesel
+65a8df601781205b99e8bc80,Honda City,Honda,2015,"4,99,999","55,000 kms",Petrol
+65a8df601781205b99e8bc81,Hyundai Accent Executive Edition,Hyundai,2009,"1,65,000","48,000 kms",Petrol
+65a8df601781205b99e8bc82,Maruti Suzuki Baleno Delta 1.2,Maruti,2016,"4,98,000","22,000 kms",Petrol
+65a8df601781205b99e8bc83,Tata Zest XE 75 PS Diesel,Tata,2018,"4,80,000","1,03,553 kms",Diesel
+65a8df601781205b99e8bc84,Maruti Suzuki Dzire LDI,Maruti,2017,"4,88,000","80,000 kms",Diesel
+65a8df601781205b99e8bc85,Tata Sumo Gold LX BS IV,Tata,2014,"2,50,000","99,000 kms",Diesel
+65a8df601781205b99e8bc86,Toyota Corolla Altis GL Petrol,Toyota,2010,"2,20,000","58,000 kms",Petrol
+65a8df601781205b99e8bc87,Maruti Suzuki Eeco 7 STR,Maruti,2013,"2,90,000","70,000 kms",LPG
+65a8df601781205b99e8bc88,Toyota Fortuner 3.0 4x2 MT,Toyota,2015,"15,25,000","1,20,000 kms",Diesel
+65a8df601781205b99e8bc89,Mahindra XUV500 W6,Mahindra,2013,"5,48,900","49,800 kms",Diesel
+65a8df601781205b99e8bc8a,Tata Tigor Revotron XZ,Tata,2019,"6,50,000",100 kms,Diesel
+65a8df601781205b99e8bc8b,Maruti Suzuki 800,Maruti,2001,"55,000","81,876 kms",Petrol
+65a8df601781205b99e8bc8c,Maruti Suzuki Ertiga Vxi,Maruti,2015,"5,50,000","75,000 kms",Petrol
+65a8df601781205b99e8bc8d,Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,2004,"90,000","50,000 kms",Petrol
+65a8df601781205b99e8bc8e,Honda Mobilio S i DTEC,Honda,2014,"3,99,000","44,000 kms",Diesel
+65a8df601781205b99e8bc8f,Maruti Suzuki Ertiga,Maruti,2016,"7,30,000","55,000 kms",Diesel
+65a8df601781205b99e8bc90,Maruti Suzuki Vitara Brezza,Maruti,2017,"7,25,000","36,000 kms",Diesel
+65a8df601781205b99e8bc91,Hyundai Verna 1.6 CRDI E,Hyundai,2016,"1,95,000","56,000 kms",Diesel
+65a8df601781205b99e8bc92,Maruti Suzuki Swift VXI BSIII,Maruti,2007,"1,30,000","62,000 kms",Petrol
+65a8df601781205b99e8bc93,Toyota Fortuner 3.0 4x2 MT,Toyota,2015,"15,25,000","1,20,000 kms",Diesel
+65a8df601781205b99e8bc94,Maruti Suzuki Omni Select Variant,Maruti,2014,"1,90,000","6,020 kms",Petrol
+65a8df601781205b99e8bc95,Honda Amaze,Honda,2013,"2,50,000","55,700 kms",Diesel
+65a8df601781205b99e8bc96,Tata Indica,Tata,2005,"80,000","42,000 kms",Petrol
+65a8df601781205b99e8bc97,Hyundai Santro Xing,Hyundai,2003,"1,20,000","50,000 kms",Petrol
+65a8df601781205b99e8bc98,Maruti Suzuki Zen Estilo,Maruti,2010,"1,49,000","35,000 kms",Petrol
+65a8df601781205b99e8bc99,Maruti Suzuki Wagon R LXI BS IV,Maruti,2014,"2,50,000","18,500 kms",Petrol
+65a8df601781205b99e8bc9a,Maruti Suzuki Wagon R,Maruti,2007,"1,20,000","7,000 kms",Petrol
+65a8df601781205b99e8bc9b,Honda Brio VX AT,Honda,2017,"4,50,000","11,000 kms",Petrol
+65a8df601781205b99e8bc9c,Hyundai Xcent Base 1.1 CRDi,Hyundai,2015,Ask For Price,"1,80,000 kms",Diesel
+65a8df601781205b99e8bc9d,Maruti Suzuki Zen LXi BSII,Maruti,2003,"99,999","53,000 kms",Petrol
+65a8df601781205b99e8bc9e,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,2008,"1,35,000","23,000 kms",Petrol
+65a8df601781205b99e8bc9f,Maruti Suzuki Wagon R Select Variant,Maruti,2016,"2,25,000","35,500 kms",Diesel
+65a8df601781205b99e8bca0,Maruti Suzuki Alto LXi BS III,Maruti,2010,"99,000","22,134 kms",Petrol
+65a8df601781205b99e8bca1,Renault Kwid RXT,Renault,2019,"3,70,000","1,000 kms",Petrol
+65a8df601781205b99e8bca2,Tata Nano Lx BSIV,Tata,2010,"52,000","9,000 kms",Petrol
+65a8df601781205b99e8bca3,Jaguar XE XE Portfolio,Jaguar,2016,"28,00,000","8,500 kms",Petrol
+65a8df601781205b99e8bca4,Hyundai Xcent S 1.2,Hyundai,2015,Ask For Price,"35,000 kms",Petrol
+65a8df601781205b99e8bca5,Hyundai Eon Magna Plus,Hyundai,2014,"1,90,000","35,000 kms",Petrol
+65a8df601781205b99e8bca6,Honda City 1.5 S MT,Honda,2014,"4,99,000","22,000 kms",Petrol
+65a8df601781205b99e8bca7,Hindustan Motors Ambassador,Hindustan,2002,"90,000","25,000 kms",Diesel
+65a8df601781205b99e8bca8,Maruti Suzuki Ritz GENUS VXI,Maruti,2010,"1,49,000","40,000 kms",Petrol
+65a8df601781205b99e8bca9,Hyundai Grand i10 Magna AT 1.2 Kappa VTVT,Hyundai,2017,"4,00,000","20,000 kms",Petrol
+65a8df601781205b99e8bcaa,Hyundai Eon D Lite Plus,Hyundai,2016,"1,20,000","87,000 kms",Petrol
+65a8df601781205b99e8bcab,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2015,"2,50,000","55,000 kms",Petrol
+65a8df601781205b99e8bcac,Maruti Suzuki Wagon R VXI BS IV,Maruti,2017,"3,75,000","23,000 kms",Petrol
+65a8df601781205b99e8bcad,Honda Amaze 1.2 VX i VTEC,Honda,2014,"3,81,000","6,000 kms",Petrol
+65a8df601781205b99e8bcae,Maruti Suzuki Estilo VXi ABS BS IV,Maruti,2013,"1,80,000","65,000 kms",Petrol
+65a8df601781205b99e8bcaf,Maruti Suzuki Vitara Brezza LDi O,Maruti,2016,"5,80,000","25,000 kms",Diesel
+65a8df601781205b99e8bcb0,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,2015,"2,78,000","39,000 kms",Petrol
+65a8df601781205b99e8bcb1,Toyota Innova 2.0 V,Toyota,2009,Ask For Price,"15,574 kms",Diesel
+65a8df601781205b99e8bcb2,Hyundai Creta 1.6 SX Plus Petrol AT,Hyundai,2016,"10,00,000","8,000 kms",Petrol
+65a8df601781205b99e8bcb3,Mahindra Scorpio Vlx BSIV,Mahindra,2013,"6,90,000","75,000 kms",Diesel
+65a8df601781205b99e8bcb4,Maruti Suzuki Ertiga VDi,Maruti,2012,"4,80,000","51,000 kms",Diesel
+65a8df601781205b99e8bcb5,Mitsubishi Lancer 1.8 LXi,Mitsubishi,2006,"85,000","50,000 kms",Petrol
+65a8df601781205b99e8bcb6,Maruti Suzuki Maruti 800 AC,Maruti,2001,"40,000","75,000 kms",Petrol
+65a8df601781205b99e8bcb7,Maruti Suzuki Alto 800 LXI CNG O,Maruti,2015,"90,000","55,800 kms",Petrol
+65a8df601781205b99e8bcb8,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2015,"3,40,000","53,000 kms",Petrol
+65a8df601781205b99e8bcb9,Hyundai Eon D Lite Plus,Hyundai,2018,"2,60,000","25,000 kms",Petrol
+65a8df601781205b99e8bcba,Ford Fiesta SXi 1.6 ABS,Ford,2009,"2,50,000","56,400 kms",Petrol
+65a8df601781205b99e8bcbb,Maruti Suzuki Ritz VDi,Maruti,2010,"1,80,000","72,160 kms",Diesel
+65a8df601781205b99e8bcbc,Hyundai Verna Fluidic New,Hyundai,2012,"3,50,000","10,000 kms",Diesel
+65a8df601781205b99e8bcbd,Maruti Suzuki Wagon R LXi BS III,Maruti,2006,"90,001","48,000 kms",Petrol
+65a8df601781205b99e8bcbe,Maruti Suzuki Estilo LX BS IV,Maruti,2007,"1,15,000","36,000 kms",Petrol
+65a8df601781205b99e8bcbf,Audi A6 2.0 TDI Premium,Audi,2012,"15,99,000","11,500 kms",Diesel
+65a8df601781205b99e8bcc0,Maruti Suzuki Wagon R LXi BS III,Maruti,2003,"1,30,000","1,33,000 kms",Petrol
+65a8df601781205b99e8bcc1,Maruti Suzuki Wagon R,Maruti,2009,"1,59,000","27,000 kms",Petrol
+65a8df601781205b99e8bcc2,Maruti Suzuki Wagon R,Maruti,2009,"1,60,000","35,000 kms",Petrol
+65a8df601781205b99e8bcc3,Maruti Suzuki Alto,Maruti,2010,"1,10,000","55,000 kms",Petrol
+65a8df601781205b99e8bcc4,Maruti Suzuki Baleno Sigma 1.2,Maruti,2016,"4,25,000","40,000 kms",Petrol
+65a8df601781205b99e8bcc5,Hyundai Verna 1.6 SX VTVT AT,Hyundai,2019,"9,00,000","2,000 kms",Petrol
+65a8df601781205b99e8bcc6,Maruti Suzuki Swift GLAM,Maruti,2009,"1,50,000","45,000 kms",Petrol
+65a8df601781205b99e8bcc7,Hyundai Getz Prime 1.3 GVS,Hyundai,2009,"1,10,000","20,000 kms",Petrol
+65a8df601781205b99e8bcc8,Hyundai Santro,Hyundai,2000,"51,999","88,000 kms",Petrol
+65a8df601781205b99e8bcc9,Hyundai Getz Prime 1.3 GLX,Hyundai,2009,"1,15,000","20,000 kms",Petrol
+65a8df601781205b99e8bcca,Chevrolet Beat PS Diesel,Chevrolet,2012,"2,15,000","65,422 kms",Diesel
+65a8df601781205b99e8bccb,Ford EcoSport Trend 1.5 Ti VCT,Ford,2017,"5,80,000","10,000 kms",Petrol
+65a8df601781205b99e8bccc,Maruti Suzuki Dzire ZXI,Maruti,2013,"3,80,000","35,000 kms",Petrol
+65a8df601781205b99e8bccd,Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,2013,"3,50,000","1,17,000 kms",Diesel
+65a8df601781205b99e8bcce,Tata Indica V2 DLG,Tata,2005,"35,000","1,50,000 kms",Diesel
+65a8df601781205b99e8bccf,BMW X1 xDrive20d xLine,BMW,2011,"11,50,000","72,000 kms",Diesel
+65a8df601781205b99e8bcd0,Hyundai i20 Asta 1.2,Hyundai,2010,"3,00,000","10,750 kms",Petrol
+65a8df601781205b99e8bcd1,Honda City 1.5 V AT,Honda,2009,"2,69,000","55,000 kms",Petrol
+65a8df601781205b99e8bcd2,Tata Nano,Tata,2013,"60,000","6,800 kms",Petrol
+65a8df601781205b99e8bcd3,Chevrolet Cruze LTZ AT,Chevrolet,2014,"4,00,000","41,000 kms",Diesel
+65a8df601781205b99e8bcd4,Hyundai Verna Fluidic New,Hyundai,2015,"4,30,000","73,000 kms",Diesel
+65a8df601781205b99e8bcd5,Hyun,Hyundai,Eon,Ask For Price,,
+65a8df601781205b99e8bcd6,Maruti Suzuki Swift Dzire VDi,Maruti,2011,"1,40,000","65,000 kms",Diesel
+65a8df601781205b99e8bcd7,Mahindra XUV500 W6,Mahindra,2014,"85,00,003","45,000 kms",Diesel
+65a8df601781205b99e8bcd8,Mahindra XUV500 W10,Mahindra,2018,"12,99,000","40,000 kms",Diesel
+65a8df601781205b99e8bcd9,Maruti Suzuki Alto K10 LXi CNG,Maruti,2014,"1,99,000","37,000 kms",Petrol
+65a8df601781205b99e8bcda,Hyundai Accent GLE,Hyundai,2006,"90,000","55,000 kms",Petrol
+65a8df601781205b99e8bcdb,Force Motors One SUV,Force,2013,"5,50,000","1,40,000 kms",Diesel
+65a8df601781205b99e8bcdc,Datsun Go Plus T O,Datsun,2016,Ask For Price,5 kms,Petrol
+65a8df601781205b99e8bcdd,Maruti Suzuki Alto,Maruti,2019,"2,65,000","9,800 kms",Petrol
+65a8df601781205b99e8bcde,Chevrolet Spark 1.0 LT,Chevrolet,2011,"1,00,000","27,000 kms",Petrol
+65a8df601781205b99e8bcdf,Hyundai i10,Hyundai,2009,"2,15,000","27,000 kms",Petrol
+65a8df601781205b99e8bce0,Toyota Etios Liva GD,Toyota,2012,"3,80,000","20,000 kms",Diesel
+65a8df601781205b99e8bce1,Renault Duster 85PS Diesel RxL Optional with Nav,Renault,2013,"4,01,919","57,923 kms",Diesel
+65a8df601781205b99e8bce2,Chevrolet Enjoy,Chevrolet,2014,"4,90,000","30,201 kms",Diesel
+65a8df601781205b99e8bce3,Maruti Suzuki Alto 800 Lxi,Maruti,2017,"2,80,000","6,200 kms",Petrol
+65a8df601781205b99e8bce4,BMW 5 Series 530i,BMW,2009,"6,50,000","37,518 kms",Petrol
+65a8df601781205b99e8bce5,Toyota Etios Liva G,Toyota,2014,"1,60,000","24,652 kms",Petrol
+65a8df601781205b99e8bce6,Mahindra Jeep MM 550 XDB,Mahindra,2004,"4,24,000",383 kms,Diesel
+65a8df601781205b99e8bce7,Chevrolet Beat LS Diesel,Chevrolet,2016,"2,25,000","95,000 kms",Diesel
+65a8df601781205b99e8bce8,Chevrolet Cruze LTZ,Chevrolet,2011,"3,50,000","35,000 kms",Diesel
+65a8df601781205b99e8bce9,Jeep Wrangler Unlimited 4x4 Diesel,Jeep,2015,"9,50,000","3,528 kms",Diesel
+65a8df601781205b99e8bcea,Maruti Suzuki Ertiga VDi,Maruti,2013,"4,85,000","52,500 kms",Diesel
+65a8df601781205b99e8bceb,Hyundai Verna VGT CRDi SX ABS,Hyundai,2010,"2,05,000","47,900 kms",Diesel
+65a8df601781205b99e8bcec,Maruti Suzuki Omni,Maruti,2012,"1,60,000","14,000 kms",Petrol
+65a8df601781205b99e8bced,Maruti Suzuki Celerio VDi,Maruti,2018,"3,10,000","37,000 kms",Petrol
+65a8df601781205b99e8bcee,Tata Zest Quadrajet 1.3,Tata,2017,"1,80,000","90,000 kms",Diesel
+65a8df601781205b99e8bcef,Mahindra XUV500 W6,Mahindra,2013,"5,49,900","52,800 kms",Diesel
+65a8df601781205b99e8bcf0,Tata Indigo CS eLX BS IV,Tata,2016,"1,50,000","1,04,000 kms",Diesel
+65a8df601781205b99e8bcf1,Hyundai i10 Era,Hyundai,2011,"1,75,000","30,000 kms",Petrol
+65a8df601781205b99e8bcf2,Tata Indigo eCS LX TDI BS III,Tata,2014,"95,000","1,95,000 kms",Diesel
+65a8df601781205b99e8bcf3,Tata Indigo LX TDI BS III,Tata,2016,"2,30,000","1,04,000 kms",Diesel
+65a8df601781205b99e8bcf4,Tata Indigo eCS LX CR4 BS IV,Tata,2016,"2,30,000","1,04,000 kms",Diesel
+65a8df601781205b99e8bcf5,Tata Indigo Marina LS,Tata,2004,"1,80,000","70,000 kms",Diesel
+65a8df601781205b99e8bcf6,Commercial Chevrolet Sail Hatchback ca,Commercial,o...,"2,25,000",,
+65a8df601781205b99e8bcf7,Hyundai Xcent SX 1.2,Hyundai,2015,"4,00,000","43,000 kms",Diesel
+65a8df601781205b99e8bcf8,Hyundai Eon Magna Plus,Hyundai,2013,"1,85,000","23,000 kms",Petrol
+65a8df601781205b99e8bcf9,Renault Duster 85 PS RxL Diesel,Renault,2015,"3,85,000","51,000 kms",Diesel
+65a8df601781205b99e8bcfa,Maruti Suzuki Alto K10 LXi CNG,Maruti,2009,"90,000","62,000 kms",Petrol
+65a8df601781205b99e8bcfb,Tata Nano LX Special Edition,Tata,2010,"32,000","48,008 kms",Petrol
+65a8df601781205b99e8bcfc,Commercial Car Ta,Commercial,Zest,"3,71,500",,
+65a8df601781205b99e8bcfd,Renault Duster 110 PS RxZ Diesel,Renault,2013,"4,35,000","39,000 kms",Diesel
+65a8df601781205b99e8bcfe,Maruti Suzuki Wagon R AX BSIV,Maruti,2010,"2,25,000","40,000 kms",Petrol
+65a8df601781205b99e8bcff,Maruti Suzuki Swift,Maruti,2006,"1,89,700","48,247 kms",Petrol
+65a8df601781205b99e8bd00,Maruti Suzuki Ertiga,Maruti,2012,"3,89,700","39,000 kms",Diesel
+65a8df601781205b99e8bd01,Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,2014,"3,65,000","23,000 kms",Petrol
+65a8df601781205b99e8bd02,Maruti Suzuki Alto K10 New,Maruti,2017,"3,60,000","9,400 kms",Petrol
+65a8df601781205b99e8bd03,Hyundai i20 Magna,Hyundai,2010,"2,10,000","50,000 kms",Petrol
+65a8df601781205b99e8bd04,Hyundai i10 Magna 1.2,Hyundai,2009,"1,70,000","75,000 kms",Petrol
+65a8df601781205b99e8bd05,tata Indica,tata,sale,"1,30,000",,
+65a8df601781205b99e8bd06,Tata Zest XE 75 PS Diesel,Tata,2017,"3,80,000","70,000 kms",Diesel
+65a8df601781205b99e8bd07,Mahindra Xylo E8,Mahindra,2009,"2,95,000","64,000 kms",Diesel
+65a8df601781205b99e8bd08,Toyota Corolla Altis GL Petrol,Toyota,2010,"1,85,000","55,000 kms",Petrol
+65a8df601781205b99e8bd09,Tata Manza Aqua Quadrajet,Tata,2014,"1,60,000","2,00,000 kms",Diesel
+65a8df601781205b99e8bd0a,Mahindra KUV100 K8 D 6 STR,Mahindra,2018,Ask For Price,"7,500 kms",Diesel
+65a8df601781205b99e8bd0b,Used bt new conditions ta,Used,Zest,"2,55,000",,
+65a8df601781205b99e8bd0c,Renault Kwid 1.0,Renault,2018,"2,90,000","2,137 kms",Petrol
+65a8df601781205b99e8bd0d,Sale tata,Sale,ture,"1,00,000",,
+65a8df601781205b99e8bd0e,Tata Venture EX 8 STR,Tata,2013,"1,00,000","30,000 kms",Diesel
+65a8df601781205b99e8bd0f,Maruti Suzuki Swift Dzire Tour LXi,Maruti,2014,"3,15,000","44,000 kms",Petrol
+65a8df601781205b99e8bd10,Maruti Suzuki Alto LX BSII,Maruti,2002,Ask For Price,"56,000 kms",Petrol
+65a8df601781205b99e8bd11,Skoda Octavia Classic 1.9 TDI MT,Skoda,2006,"1,14,990","65,000 kms",Diesel
+65a8df601781205b99e8bd12,Maruti Suzuki Omni LPG BS IV,Maruti,2012,"1,20,000","1,60,000 kms",LPG
+65a8df601781205b99e8bd13,Chevrolet Beat Diesel,Chevrolet,2011,"1,25,000","56,000 kms",Diesel
+65a8df601781205b99e8bd14,Tata Sumo Gold EX BS IV,Tata,2012,"2,10,000","75,000 kms",Diesel
+65a8df601781205b99e8bd15,Tata indigo 2017 top model..,Tata,emi,"1,70,000",,
+65a8df601781205b99e8bd16,Hyundai Verna 1.6 CRDI SX,Hyundai,2018,"8,55,000","42,000 kms",Diesel
+65a8df601781205b99e8bd17,Tata Sumo Gold EX BS IV,Tata,2012,"2,10,000","75,000 kms",Diesel
+65a8df601781205b99e8bd18,Mahindra Scorpio 2.6 CRDe,Mahindra,2007,"2,60,000","56,000 kms",Diesel
+65a8df601781205b99e8bd19,Maruti Suzuki Zen LXi BS III,Maruti,2002,"95,000","10,544 kms",Petrol
+65a8df601781205b99e8bd1a,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2011,"2,55,000","64,000 kms",Petrol
+65a8df601781205b99e8bd1b,Mahindra Scorpio SLX 2.6 Turbo 8 Str,Mahindra,2008,"3,00,000","70,000 kms",Diesel
+65a8df601781205b99e8bd1c,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,2014,"3,40,000","25,000 kms",Petrol
+65a8df601781205b99e8bd1d,Hyundai Elite i20 Sportz 1.2,Hyundai,2017,"5,50,000","15,000 kms",Petrol
+65a8df601781205b99e8bd1e,Ford Ikon 1.6 Nxt,Ford,2003,"60,000","50,000 kms",Petrol
+65a8df601781205b99e8bd1f,Hyundai Elite i20 Sportz 1.2,Hyundai,2015,Ask For Price,"49,500 kms",Petrol
+65a8df601781205b99e8bd20,Tata indigo,Tata,car,"1,50,000",,
+65a8df601781205b99e8bd21,Toyota Innova 2.5 V 7 STR,Toyota,2011,"7,50,000","1,47,000 kms",Diesel
+65a8df601781205b99e8bd22,Nissan Sunny XL,Nissan,2011,"2,30,000","52,000 kms",Petrol
+65a8df601781205b99e8bd23,Chevrolet Beat LT Diesel,Chevrolet,2012,"1,30,000","90,001 kms",Diesel
+65a8df601781205b99e8bd24,Maruti Suzuki Alto 800 Lxi,Maruti,2017,"2,70,000","21,000 kms",Petrol
+65a8df601781205b99e8bd25,Maruti Suzuki Swift VDi BS IV,Maruti,2012,"2,80,000","48,006 kms",Diesel
+65a8df601781205b99e8bd26,Maruti Suzuki Swift VDi BS IV,Maruti,2012,"2,80,000","48,006 kms",Diesel
+65a8df601781205b99e8bd27,Maruti Suzuki Swift,Maruti,2012,"2,80,000","48,006 kms",Diesel
+65a8df601781205b99e8bd28,very good condition tata bolts are av,very,able,"2,00,000",,
+65a8df601781205b99e8bd29,Toyota Innova 2.0 G4,Toyota,2012,"6,00,000","80,000 kms",Diesel
+65a8df601781205b99e8bd2a,Sale Hyundai xcent commerc,Sale,no.,Ask For Price,,
+65a8df601781205b99e8bd2b,Maruti Suzuki Swift VDi ABS,Maruti,2010,"1,90,000","74,000 kms",Diesel
+65a8df601781205b99e8bd2c,Hyundai Elite i20 Asta 1.2,Hyundai,2015,"5,00,000","22,000 kms",Petrol
+65a8df601781205b99e8bd2d,Mahindra XUV500 W10,Mahindra,2016,"10,65,000","41,000 kms",Diesel
+65a8df601781205b99e8bd2e,Volkswagen Polo Trendline 1.5L D,Volkswagen,2015,"3,50,000","25,000 kms",Diesel
+65a8df601781205b99e8bd2f,Toyota Etios Liva Diesel,Toyota,2012,"3,50,000","85,000 kms",Diesel
+65a8df601781205b99e8bd30,Mahindra TUV300 T4 Plus,Mahindra,2016,"5,40,000","29,500 kms",Diesel
+65a8df601781205b99e8bd31,Hyundai Elite i20 Asta 1.2,Hyundai,2015,"4,70,000","30,000 kms",Petrol
+65a8df601781205b99e8bd32,Hyundai Santro Xing GLS,Hyundai,2014,"1,79,000","57,000 kms",Petrol
+65a8df601781205b99e8bd33,Maruti Suzuki Zen LXi BS III,Maruti,2003,"48,000","60,000 kms",Petrol
+65a8df601781205b99e8bd34,Maruti Suzuki Ciaz ZXi Plus RS,Maruti,2016,"6,50,000","50,000 kms",Petrol
+65a8df601781205b99e8bd35,Hyundai Eon Era Plus,Hyundai,2013,"1,90,000","39,700 kms",Petrol
+65a8df601781205b99e8bd36,Hyundai Elantra 1.8 S,Hyundai,2012,"5,00,000","65,000 kms",Petrol
+65a8df601781205b99e8bd37,Maruti Suzuki Swift VDi,Maruti,2010,"2,70,000","67,000 kms",Diesel
+65a8df601781205b99e8bd38,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,2008,"1,25,000","46,000 kms",Petrol
+65a8df601781205b99e8bd39,Hyundai Eon Era Plus,Hyundai,2012,"1,88,000","38,000 kms",Petrol
+65a8df601781205b99e8bd3a,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2016,"3,80,000","27,000 kms",Petrol
+65a8df601781205b99e8bd3b,Hyundai Verna Fluidic New,Hyundai,2011,"3,65,000","43,000 kms",Diesel
+65a8df601781205b99e8bd3c,Ford EcoSport Trend 1.5L Ti VCT,Ford,2014,"4,65,000","47,000 kms",Petrol
+65a8df601781205b99e8bd3d,Hyundai i20 Magna,Hyundai,2011,"2,40,000","42,000 kms",Petrol
+65a8df601781205b99e8bd3e,Chevrolet Beat Diesel,Chevrolet,2016,"1,79,999","19,336 kms",Diesel
+65a8df601781205b99e8bd3f,Tata Indica eV2 LS,Tata,2015,"1,40,000","60,105 kms",Diesel
+65a8df601781205b99e8bd40,Jaguar XF 2.2 Diesel Luxury,Jaguar,2013,"21,90,000","29,000 kms",Diesel
+65a8df601781205b99e8bd41,Audi Q5 2.0 TDI quattro Premium Plus,Audi,2014,"23,90,000","34,000 kms",Diesel
+65a8df601781205b99e8bd42,BMW 3 Series 320d Sedan,BMW,2011,"10,75,000","35,000 kms",Diesel
+65a8df601781205b99e8bd43,Maruti Suzuki Swift ZXi 1.2 BS IV,Maruti,2015,"4,75,000","22,000 kms",Petrol
+65a8df601781205b99e8bd44,BMW X1 sDrive20d,BMW,2012,"10,25,000","41,000 kms",Diesel
+65a8df601781205b99e8bd45,Maruti Suzuki S Cross Sigma 1.3,Maruti,2016,"6,15,000","21,000 kms",Diesel
+65a8df601781205b99e8bd46,Maruti Suzuki Ertiga LDi,Maruti,2013,"4,75,000","48,000 kms",Diesel
+65a8df601781205b99e8bd47,Maruti Suzuki Alto K10 VXi AMT,Maruti,2016,"2,70,000","38,000 kms",Petrol
+65a8df601781205b99e8bd48,Honda City SV,Honda,2014,"4,75,000","34,000 kms",Diesel
+65a8df601781205b99e8bd49,Volkswagen Vento Comfortline Petrol,Volkswagen,2011,"2,40,000","45,933 kms",Petrol
+65a8df601781205b99e8bd4a,Honda City 1.5 EXi New,Honda,2005,"1,20,000","68,000 kms",Petrol
+65a8df601781205b99e8bd4b,Audi A4 2.0 TDI 177bhp Premium,Audi,2016,"19,00,000","44,000 kms",Diesel
+65a8df601781205b99e8bd4c,Mahindra KUV100,Mahindra,2017,"3,60,000","35,000 kms",Diesel
+65a8df601781205b99e8bd4d,Tata Zest XE 75 PS Diesel,Tata,2018,"4,50,000","1,02,563 kms",Diesel
+65a8df601781205b99e8bd4e,Mahindra XUV500 W8,Mahindra,2015,"9,00,000","28,600 kms",Diesel
+65a8df601781205b99e8bd4f,Maruti Suzuki Swift Dzire Tour VDi,Maruti,2017,"6,50,000","41,800 kms",Diesel
+65a8df601781205b99e8bd50,Tata Sumo Gold LX BS IV,Tata,2014,"2,75,000","1,16,000 kms",Diesel
+65a8df601781205b99e8bd51,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2009,"2,10,000","59,000 kms",Petrol
+65a8df601781205b99e8bd52,Mahindra Scorpio 2.6 SLX,Mahindra,2004,"1,75,000","58,000 kms",Diesel
+65a8df601781205b99e8bd53,Maruti Suzuki Omni 8 STR BS III,Maruti,2009,"85,000","45,000 kms",Petrol
+65a8df601781205b99e8bd54,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,2015,"14,90,000","42,590 kms",Diesel
+65a8df601781205b99e8bd55,Renault Duster,Renault,2014,"8,00,000","7,400 kms",Diesel
+65a8df601781205b99e8bd56,Volkswagen Jetta Comfortline 1.9 TDI AT,Volkswagen,2009,"4,50,000","54,500 kms",Diesel
+65a8df601781205b99e8bd57,Maruti Suzuki Ertiga Vxi,Maruti,2012,"10,00,000","2,00,000 kms",Diesel
+65a8df601781205b99e8bd58,Audi A4 2.0 TDI 177bhp Premium,Audi,2013,"15,10,000","27,000 kms",Diesel
+65a8df601781205b99e8bd59,Volvo S80 Summum D4,Volvo,2015,"18,50,000","42,000 kms",Diesel
+65a8df601781205b99e8bd5a,Toyota Corolla Altis VL AT Petrol,Toyota,2014,"7,90,000","29,000 kms",Petrol
+65a8df601781205b99e8bd5b,Mitsubishi Pajero Sport 2.5 AT,Mitsubishi,2015,"17,25,000","37,000 kms",Diesel
+65a8df601781205b99e8bd5c,Chevrolet Beat LT Petrol,Chevrolet,2012,"1,35,000","36,000 kms",Petrol
+65a8df601781205b99e8bd5d,BMW X1,BMW,2011,"10,00,000","34,000 kms",Diesel
+65a8df601781205b99e8bd5e,Datsun Redi GO S,Datsun,2018,"2,99,999","7,000 kms",Petrol
+65a8df601781205b99e8bd5f,Mercedes Benz C Class C 220 CDI Avantgarde,Mercedes,2009,"12,25,000","76,000 kms",Diesel
+65a8df601781205b99e8bd60,Mahindra Scorpio SLX,Mahindra,2004,"1,75,000","60,000 kms",Diesel
+65a8df601781205b99e8bd61,Volkswagen Vento Comfortline Diesel,Volkswagen,2011,"2,00,000","95,000 kms",Diesel
+65a8df601781205b99e8bd62,Tata Indigo CS GLS,Tata,2017,"2,70,000","50,000 kms",Diesel
+65a8df601781205b99e8bd63,Ford Figo Petrol Titanium,Ford,2019,"5,25,000",00 kms,Petrol
+65a8df601781205b99e8bd64,Honda City ZX GXi,Honda,2006,"1,80,000","50,000 kms",Petrol
+65a8df601781205b99e8bd65,Maruti Suzuki Wagon R Duo Lxi,Maruti,2008,"1,40,000","68,000 kms",Petrol
+65a8df601781205b99e8bd66,Ford EcoSport Trend 1.5L TDCi,Ford,2014,"4,00,000","16,000 kms",Petrol
+65a8df601781205b99e8bd67,Maruti Suzuki Swift Dzire VDi,Maruti,2016,"4,99,000","51,000 kms",Diesel
+65a8df601781205b99e8bd68,Maruti Suzuki Omni 8 STR BS III,Maruti,2009,"85,000","56,000 kms",Petrol
+65a8df601781205b99e8bd69,Maruti Suzuki Zen LX BSII,Maruti,2004,"70,000","1,00,000 kms",Petrol
+65a8df601781205b99e8bd6a,Renault Duster RxL Petrol,Renault,2015,"5,50,000","36,000 kms",Petrol
+65a8df601781205b99e8bd6b,Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,2014,"3,70,000","11,523 kms",Petrol
+65a8df601781205b99e8bd6c,Maruti Suzuki Baleno Zeta 1.2,Maruti,2018,"6,90,000","1,000 kms",Petrol
+65a8df601781205b99e8bd6d,Honda WR V S MT Petrol,Honda,2009,"2,50,000","60,000 kms",Petrol
+65a8df601781205b99e8bd6e,Tata Indigo CS eLX BS IV,Tata,2016,"1,10,000","85,000 kms",Diesel
+65a8df601781205b99e8bd6f,Renault Duster 110 PS RxL Diesel,Renault,2013,"4,90,000","38,600 kms",Diesel
+65a8df601781205b99e8bd70,Mahindra Scorpio LX BS III,Mahindra,2009,"3,20,000","95,500 kms",Diesel
+65a8df601781205b99e8bd71,Maruti Suzuki Zen LXi BS III,Maruti,2004,"68,000","56,000 kms",Petrol
+65a8df601781205b99e8bd72,Maruti Suzuki Wagon R LXi BS III,Maruti,2014,"1,30,000","37,458 kms",Petrol
+65a8df601781205b99e8bd73,Maruti Suzuki SX4 Celebration Diesel,Maruti,2016,"9,70,000","85,960 kms",Diesel
+65a8df601781205b99e8bd74,Audi A3 Cabriolet 40 TFSI,Audi,2015,"31,00,000","12,516 kms",Petrol
+65a8df601781205b99e8bd75,Hyundai Eon D Lite Plus,Hyundai,2018,"2,80,000","35,000 kms",Petrol
+65a8df601781205b99e8bd76,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,2009,"1,25,000",00 kms,Petrol
+65a8df601781205b99e8bd77,Mahindra Scorpio SLX,Mahindra,2008,"2,85,000","80,000 kms",Diesel
+65a8df601781205b99e8bd78,I want to sell my commercial car due t,I,o...,"4,75,000",,
+65a8df601781205b99e8bd79,Hyundai Santro AE GLS Audio,Hyundai,2011,"1,65,000","45,000 kms",Petrol
+65a8df601781205b99e8bd7a,i want sale my car.no emi....uber atta,i,d...,"3,20,000",,
+65a8df601781205b99e8bd7b,Maruti Suzuki Swift Dzire Tour VDi,Maruti,2009,"2,50,000","51,000 kms",Diesel
+65a8df601781205b99e8bd7c,Mahindra Scorpio S4,Mahindra,2015,"8,65,000","30,000 kms",Diesel
+65a8df601781205b99e8bd7d,Tata ZEST 6 month old,Tata,car,"3,70,000",,
+65a8df601781205b99e8bd7e,Mahindra Xylo D2 BS IV,Mahindra,2011,"3,90,000","48,000 kms",Diesel
+65a8df601781205b99e8bd7f,Hyundai Santro,Hyundai,2003,"60,000","51,000 kms",Petrol
+65a8df601781205b99e8bd80,Chevrolet Beat LT Diesel,Chevrolet,2015,"2,15,000","90,000 kms",Diesel
+65a8df601781205b99e8bd81,Maruti Suzuki Swift Dzire VDi,Maruti,2015,"4,75,000","43,000 kms",Diesel
+65a8df601781205b99e8bd82,Mahindra XUV500 W8,Mahindra,2015,"8,99,000","53,000 kms",Diesel
+65a8df601781205b99e8bd83,Toyota Fortuner 3.0 4x4 MT,Toyota,2013,"14,99,000","97,000 kms",Diesel
+65a8df601781205b99e8bd84,Maruti Suzuki Alto K10 VXi,Maruti,2013,"2,40,000","20,000 kms",Petrol
+65a8df601781205b99e8bd85,Hyundai Getz GLE,Hyundai,2007,"99,000","55,000 kms",Petrol
+65a8df601781205b99e8bd86,Maruti Suzuki Swift Dzire Tour LDi,Maruti,2014,"2,60,000","1,20,000 kms",Diesel
+65a8df601781205b99e8bd87,Hyundai Creta 1.6 SX,Hyundai,2019,"12,00,000",0 kms,Petrol
+65a8df601781205b99e8bd88,Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,2007,"1,15,000","46,000 kms",Petrol
+65a8df601781205b99e8bd89,Hyundai Santro Xing XL eRLX Euro III,Hyundai,2009,"88,000","43,200 kms",Petrol
+65a8df601781205b99e8bd8a,Mahindra Xylo D2 BS IV,Mahindra,2011,"3,90,000","56,000 kms",Diesel
+65a8df601781205b99e8bd8b,Hyundai Santro Xing XL eRLX Euro III,Hyundai,2007,"1,35,000","42,000 kms",Petrol
+65a8df601781205b99e8bd8c,Tata Indica V2 DLS BS III,Tata,2009,"90,000","30,600 kms",Diesel
+65a8df601781205b99e8bd8d,Hyundai i10 Sportz 1.2,Hyundai,2011,"2,20,000","38,000 kms",Petrol
+65a8df601781205b99e8bd8e,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2017,"4,24,999","2,550 kms",Petrol
+65a8df601781205b99e8bd8f,Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,2007,"1,35,000","47,000 kms",Petrol
+65a8df601781205b99e8bd90,Honda City 1.5 E MT,Honda,2005,"95,000","41,000 kms",Petrol
+65a8df601781205b99e8bd91,Nissan Micra XL,Nissan,2017,"4,30,000","62,500 kms",Diesel
+65a8df601781205b99e8bd92,Honda City 1.5 S Inspire,Honda,2005,"1,15,000","68,000 kms",Petrol
+65a8df601781205b99e8bd93,Maruti Suzuki Alto 800 Lxi,Maruti,2015,"2,15,000","50,000 kms",Petrol
+65a8df601781205b99e8bd94,Maruti Suzuki Wagon R LX BS III,Maruti,2004,"53,000","69,000 kms",Petrol
+65a8df601781205b99e8bd95,Maruti Suzuki Ertiga VDi,Maruti,2012,"5,00,000","48,000 kms",Diesel
+65a8df601781205b99e8bd96,Tata Indica eV2 eXeta eGLX,Tata,2012,"85,000","55,000 kms",Diesel
+65a8df601781205b99e8bd97,Maruti Suzuki Omni E 8 STR BS IV,Maruti,2013,"1,65,000","25,000 kms",Petrol
+65a8df601781205b99e8bd98,Hyundai Eon Era Plus,Hyundai,2014,"2,00,000","28,400 kms",Petrol
+65a8df601781205b99e8bd99,Hyundai Eon,Hyundai,2014,"2,00,000","28,000 kms",Petrol
+65a8df601781205b99e8bd9a,Maruti Suzuki Swift LDi,Maruti,2015,"4,25,000","42,000 kms",Diesel
+65a8df601781205b99e8bd9b,MARUTI SUZUKI ERTIGA F,MARUTI,SALE,"6,50,000",,
+65a8df601781205b99e8bd9c,Hyundai Verna 1.6 CRDI SX Plus AT,Hyundai,2012,"6,00,000","29,000 kms",Diesel
+65a8df601781205b99e8bd9d,Chevrolet Tavera LS B3 10 Seats BSII,Chevrolet,2005,"1,30,000","68,485 kms",Diesel
+65a8df601781205b99e8bd9e,Tata Tiago Revotron XM,Tata,2018,"4,30,000","3,500 kms",Petrol
+65a8df601781205b99e8bd9f,Tata Tiago Revotorq XZ,Tata,2019,"5,68,500",0 kms,Petrol
+65a8df601781205b99e8bda0,Tata Nexon,Tata,2019,Ask For Price,0 kms,Petrol
+65a8df601781205b99e8bda1,Tata,Tata,digo,Ask For Price,,
+65a8df601781205b99e8bda2,Maruti Suzuki Zen LXi BS III,Maruti,2006,"71,000","32,000 kms",Petrol
+65a8df601781205b99e8bda3,Mahindra KUV100 K8 D 6 STR,Mahindra,2018,"5,60,000","8,000 kms",Diesel
+65a8df601781205b99e8bda4,Ford EcoSport Titanium 1.5 TDCi,Ford,2014,"5,90,000","34,000 kms",Diesel
+65a8df601781205b99e8bda5,Hindustan Motors Ambassador Classic Mark 4 – Befo,Hindustan,1995,"7,50,000","37,000 kms",Petrol
+65a8df601781205b99e8bda6,Ford Fusion 1.4 TDCi Diesel,Ford,2007,"1,25,000","85,455 kms",Diesel
+65a8df601781205b99e8bda7,Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,2007,"1,35,000","46,000 kms",Petrol
+65a8df601781205b99e8bda8,Hyundai Santro,Hyundai,2002,"60,000","47,000 kms",Petrol
+65a8df601781205b99e8bda9,Fiat Linea Emotion 1.4 L T Jet Petrol,Fiat,2009,"1,20,000","64,000 kms",Petrol
+65a8df601781205b99e8bdaa,Ford Ikon 1.3 Flair Josh 100,Ford,2008,"95,000","46,000 kms",Petrol
+65a8df601781205b99e8bdab,Maruti Suzuki Omni E 8 STR BS IV,Maruti,2017,"2,40,000","8,000 kms",Petrol
+65a8df601781205b99e8bdac,Tata Indica V2 LS,Tata,2012,"1,15,000","64,000 kms",Diesel
+65a8df601781205b99e8bdad,Mahindra Scorpio S4,Mahindra,2015,"7,95,000","63,000 kms",Diesel
+65a8df601781205b99e8bdae,Hyundai Santro Xing XL eRLX Euro III,Hyundai,2007,"55,000","65,000 kms",Petrol
+65a8df601781205b99e8bdaf,Mahindra Xylo D2,Mahindra,2009,"3,00,000","62,000 kms",Diesel
+65a8df601781205b99e8bdb0,Hyundai Grand i10 Asta 1.2 Kappa VTVT,Hyundai,2014,"3,20,000","41,000 kms",Petrol
+65a8df601781205b99e8bdb1,Maruti Suzuki Alto 800 Lxi,Maruti,2015,"2,65,000","14,000 kms",Petrol
+65a8df601781205b99e8bdb2,Toyota Corolla,Toyota,2006,"1,60,000","40,000 kms",Petrol
+65a8df601781205b99e8bdb3,Hyundai Eon Magna,Hyundai,2017,"3,00,000","1,600 kms",Petrol
+65a8df601781205b99e8bdb4,Tata Sumo Grande MKII GX,Tata,2010,"1,30,000","90,000 kms",Diesel
+65a8df601781205b99e8bdb5,Maruti Suzuki Swift VDi,Maruti,2011,"2,50,000","58,000 kms",Diesel
+65a8df601781205b99e8bdb6,Volkswagen Polo Highline1.2L P,Volkswagen,2013,"3,80,000","27,000 kms",Petrol
+65a8df601781205b99e8bdb7,Maruti Suzuki Alto 800 Lx,Maruti,2003,"42,000","60,000 kms",Petrol
+65a8df601781205b99e8bdb8,Tata Tiago Revotron XZ,Tata,2017,"4,00,000","31,000 kms",Petrol
+65a8df601781205b99e8bdb9,Maruti Suzuki Swift LDi,Maruti,2009,"1,20,000","90,000 kms",Diesel
+65a8df601781205b99e8bdba,Maruti Suzuki Swift VDi,Maruti,2009,"1,20,000","90,000 kms",Diesel
+65a8df601781205b99e8bdbb,Tata Indigo eCS,Tata,2016,"1,30,000","1,50,000 kms",Diesel
+65a8df601781205b99e8bdbc,Chevrolet Beat LS Diesel,Chevrolet,2014,"1,89,000","31,000 kms",Diesel
+65a8df601781205b99e8bdbd,2012 Tata Sumo Gold f,2012,sell,"2,50,000",,
+65a8df601781205b99e8bdbe,Mahindra Xylo E8 BS IV,Mahindra,2011,"3,65,000","43,000 kms",Diesel
+65a8df601781205b99e8bdbf,Hyundai Eon D Lite Plus,Hyundai,2013,"1,70,000","20,000 kms",Petrol
+65a8df601781205b99e8bdc0,Well mentained Tata Sumo,Well,d Ex,"3,80,000",,
+65a8df601781205b99e8bdc1,all paper updated tata indica v2 and u,all,n...,"1,45,000",,
+65a8df601781205b99e8bdc2,Maruti Ertiga showroom condition with,Maruti,e...,"4,80,000",,
+65a8df601781205b99e8bdc3,7 SEATER MAHINDRA BOLERO IN VERY GOOD,7,D...,Ask For Price,,
+65a8df601781205b99e8bdc4,9 SEATER MAHINDRA BOL,9,", Ac",Ask For Price,,
+65a8df601781205b99e8bdc5,scratch less Tata I,scratch,go .,"1,40,000",,
+65a8df601781205b99e8bdc6,Maruti Suzuki swift dzire for sale in,Maruti,d...,"3,60,000",,
+65a8df601781205b99e8bdc7,Commercial Chevrolet beat for sale in,Commercial,k...,"1,80,000",,
+65a8df601781205b99e8bdc8,urgent sell my Mahindra qu,urgent,o c4,"3,50,000",,
+65a8df601781205b99e8bdc9,Tata Sumo Gold FX BSIII,Tata,2013,"2,15,000","1,00,000 kms",Petrol
+65a8df601781205b99e8bdca,sell my car Maruti Suzuki Swif,sell,zire,"3,00,000",,
+65a8df601781205b99e8bdcb,Maruti Suzuki Swift Dzire good car fo,Maruti,o...,"3,10,000",,
+65a8df601781205b99e8bdcc,Hyunda,Hyundai,cent,Ask For Price,,
+65a8df601781205b99e8bdcd,Commercial Maruti Suzuki Alto Lxi 800,Commercial,...,Ask For Price,,
+65a8df601781205b99e8bdce,urgent sale Ta,urgent,Sumo,"2,20,000",,
+65a8df601781205b99e8bdcf,Maruti Suzuki Alto vxi t,Maruti,cab,"95,000",,
+65a8df601781205b99e8bdd0,tata,tata,t xe,Ask For Price,,
+65a8df601781205b99e8bdd1,TATA INDI,TATA,EV2,"1,10,000",,
+65a8df601781205b99e8bdd2,Tata Nano,Tata,2013,"60,000","7,000 kms",Petrol
+65a8df601781205b99e8bdd3,Hyundai Elite i20,Hyundai,2017,"5,99,999","31,000 kms",Petrol
+65a8df601781205b99e8bdd4,Hyundai i10 Magna 1.2 Kappa2,Hyundai,2009,"4,00,000","33,000 kms",Petrol
+65a8df601781205b99e8bdd5,Hyundai Creta,Hyundai,2016,"9,00,000","60,000 kms",Diesel
+65a8df601781205b99e8bdd6,Volkswagen Polo,Volkswagen,2013,"2,99,999","48,000 kms",Diesel
+65a8df601781205b99e8bdd7,Maruti Suzuki Dzire,Maruti,2014,"3,74,999","33,000 kms",Petrol
+65a8df601781205b99e8bdd8,Tata Bolt XM Petrol,Tata,2015,"6,00,000","15,000 kms",Petrol
+65a8df601781205b99e8bdd9,Maruti Suzuki Alto 800 Lx,Maruti,2005,"70,000","47,000 kms",Petrol
+65a8df601781205b99e8bdda,Maruti Suzuki Alto,Maruti,2005,"1,00,000","40,000 kms",Petrol
+65a8df601781205b99e8bddb,Hyundai Venue,Hyundai,2019,Ask For Price,"7,000 kms",Diesel
+65a8df601781205b99e8bddc,Maruti Suzuki Ritz,Maruti,2010,"1,50,000","38,000 kms",Diesel
+65a8df601781205b99e8bddd,Maruti Suzuki Alto 800 Lxi,Maruti,2017,"2,25,000","12,500 kms",Petrol
+65a8df601781205b99e8bdde,Maruti Suzuki Dzire,Maruti,2009,"2,10,000","42,000 kms",Petrol
+65a8df601781205b99e8bddf,Renault Lodgy,Renault,2016,Ask For Price,"20,000 kms",Diesel
+65a8df601781205b99e8bde0,Hyundai i20 Asta,Hyundai,2014,"4,25,000","31,000 kms",Petrol
+65a8df601781205b99e8bde1,Maruti Suzuki Swift Select Variant,Maruti,2008,"1,62,000","60,000 kms",Diesel
+65a8df601781205b99e8bde2,Tata Indica V2 DLX BS III,Tata,2005,"60,000","80,000 kms",Diesel
+65a8df601781205b99e8bde3,Mahindra Scorpio VLX 2.2 mHawk Airbag BSIV,Mahindra,2014,"6,50,000","77,000 kms",Diesel
+65a8df601781205b99e8bde4,Toyota Innova 2.5 E 8 STR,Toyota,2012,"7,50,000","75,000 kms",Diesel
+65a8df601781205b99e8bde5,Mahindra Xylo E8,Mahindra,2010,"3,75,000","40,000 kms",Diesel
+65a8df601781205b99e8bde6,Hyundai i20 Magna 1.2,Hyundai,2011,"2,30,000","47,000 kms",Petrol
+65a8df601781205b99e8bde7,Maruti Suzuki Omni,Maruti,2000,"35,999","60,000 kms",Petrol
+65a8df601781205b99e8bde8,Mahindra KUV100,Mahindra,2016,"3,80,000","26,500 kms",Petrol
+65a8df601781205b99e8bde9,Mahindra KUV100 K8 6 STR,Mahindra,2019,"5,60,000","2,875 kms",Petrol
+65a8df601781205b99e8bdea,Datsun Go Plus,Datsun,2016,"2,85,000","13,900 kms",Petrol
+65a8df601781205b99e8bdeb,Ford Endeavor 4x4 Thunder Plus,Ford,2019,"29,00,000","9,000 kms",Diesel
+65a8df601781205b99e8bdec,Tata Indica V2,Tata,2005,"39,999","80,000 kms",Diesel
+65a8df601781205b99e8bded,Hyundai Santro Xing GL,Hyundai,2006,"85,000","60,000 kms",Petrol
+65a8df601781205b99e8bdee,Maruti Suzuki Wagon R 1.0 VXi,Maruti,2016,"3,95,000","20,000 kms",Petrol
+65a8df601781205b99e8bdef,Maruti Suzuki Swift Select Variant,Maruti,2008,"1,75,000","58,000 kms",Diesel
+65a8df601781205b99e8bdf0,Maruti Suzuki Alto 800 Lx,Maruti,2019,"4,00,000","1,500 kms",Petrol
+65a8df601781205b99e8bdf1,Toyota Innova 2.5 Z Diesel 7 Seater,Toyota,2011,"7,50,000","75,000 kms",Diesel
+65a8df601781205b99e8bdf2,Any type car avaiabel hare...comercica,Any,r...,"1,70,000",,
+65a8df601781205b99e8bdf3,Maruti Suzuki Alto 800,Maruti,2016,"2,50,000","2,450 kms",Petrol
+65a8df601781205b99e8bdf4,Maruti Suzuki Alto AX,Maruti,2019,"4,25,000","1,625 kms",Petrol
+65a8df601781205b99e8bdf5,Maruti Suzuki Alto 800 Lx,Maruti,2019,Ask For Price,"1,500 kms",Petrol
+65a8df601781205b99e8bdf6,Volkswagen Polo Highline1.2L P,Volkswagen,2017,"5,25,000","45,000 kms",Petrol
+65a8df601781205b99e8bdf7,Mahindra Logan,Mahindra,2009,"1,30,000","65,000 kms",Diesel
+65a8df601781205b99e8bdf8,Maruti Suzuki 800 Std BS III,Maruti,2000,"30,000","33,400 kms",Petrol
+65a8df601781205b99e8bdf9,Mahindra Scorpio,Mahindra,2011,"4,75,000","60,123 kms",Diesel
+65a8df601781205b99e8bdfa,Chevrolet Sail 1.2 LS,Chevrolet,2013,"3,00,000","28,000 kms",Petrol
+65a8df601781205b99e8bdfb,Volkswagen Vento Highline Plus 1.5 Diesel,Volkswagen,2015,Ask For Price,"38,900 kms",Diesel
+65a8df601781205b99e8bdfc,Hyundai Santro AE GLS Audio,Hyundai,2003,"60,000","70,000 kms",Petrol
+65a8df601781205b99e8bdfd,Maruti Suzuki Wagon R VXi Minor,Maruti,2006,"1,00,000","7,000 kms",Petrol
+65a8df601781205b99e8bdfe,Hyundai Eon,Hyundai,2018,"2,60,000","25,000 kms",Petrol
+65a8df601781205b99e8bdff,Tata Manza,Tata,2015,"1,00,000","1,00,000 kms",Diesel
+65a8df601781205b99e8be00,Toyota Innova 2.0 G1 Petrol 8seater,Toyota,2019,Ask For Price,"4,000 kms",Petrol
+65a8df601781205b99e8be01,Toyota Etios G,Toyota,2013,"2,65,000","42,000 kms",Petrol
+65a8df601781205b99e8be02,Hyundai Getz Prime 1.3 GLX,Hyundai,2009,"1,15,000","20,000 kms",Petrol
+65a8df601781205b99e8be03,Toyota Qualis,Toyota,2003,"1,80,000","1,00,000 kms",Diesel
+65a8df601781205b99e8be04,Hyundai Santro Xing,Hyundai,2004,"45,000","1,37,495 kms",Petrol
+65a8df601781205b99e8be05,Tata Indica eV2 LS,Tata,2016,"50,500","91,200 kms",Diesel
+65a8df601781205b99e8be06,Honda City 1.5 S MT,Honda,2009,"2,70,000","55,000 kms",Petrol
+65a8df601781205b99e8be07,Tata Zest XE 75 PS Diesel,Tata,2017,"2,90,000","1,20,000 kms",Diesel
+65a8df601781205b99e8be08,Mahindra Quanto C4,Mahindra,2013,"3,25,000","63,000 kms",Diesel
+65a8df601781205b99e8be09,Tata Indigo eCS LX CR4 BS IV,Tata,2016,"1,60,000","1,04,000 kms",Diesel
+65a8df601781205b99e8be0a,Maruti Suzuki Swift Dzire,Maruti,2016,"3,50,000","1,46,000 kms",Diesel
+65a8df601781205b99e8be0b,Hyundai Elite i20,Hyundai,2011,"2,90,000","40,000 kms",Petrol
+65a8df601781205b99e8be0c,Hyundai i20 Select Variant,Hyundai,2011,"2,90,000","40,000 kms",Petrol
+65a8df601781205b99e8be0d,Chevrolet Tavera Neo,Chevrolet,2007,"4,65,000","1,00,800 kms",Diesel
+65a8df601781205b99e8be0e,Maruti Suzuki Dzire,Maruti,2016,"3,25,000","1,50,000 kms",Diesel
+65a8df601781205b99e8be0f,Hyundai Elite i20,Hyundai,2018,"5,10,000","2,100 kms",Petrol
+65a8df601781205b99e8be10,Honda City VX Petrol,Honda,2016,"8,60,000","95,000 kms",Petrol
+65a8df601781205b99e8be11,Maruti Suzuki Dzire,Maruti,2016,"4,50,000","2,500 kms",Diesel
+65a8df601781205b99e8be12,Hyundai Getz,Hyundai,2006,"1,25,000","80,000 kms",Petrol
+65a8df601781205b99e8be13,Mercedes Benz C Class 200 K MT,Mercedes,2006,"5,00,001","15,000 kms",Petrol
+65a8df601781205b99e8be14,Maruti Suzuki Alto LXi BS III,Maruti,2005,"95,000","65,000 kms",Petrol
+65a8df601781205b99e8be15,Maruti Suzuki Swift Dzire Tour VDi,Maruti,2009,"2,50,000","51,000 kms",Diesel
+65a8df601781205b99e8be16,Skoda Fabia,Skoda,2009,"1,10,000","45,000 kms",Petrol
+65a8df601781205b99e8be17,Maruti Suzuki Alto 800 Select Variant,Maruti,2015,Ask For Price,"70,000 kms",Petrol
+65a8df601781205b99e8be18,Maruti Suzuki Ritz VXI ABS,Maruti,2011,"2,70,000","50,000 kms",Petrol
+65a8df601781205b99e8be19,tata zest 2017 f,tata,sale,"4,50,000",,
+65a8df601781205b99e8be1a,Tata Indica V2 DLE BS III,Tata,2009,"1,10,000","30,000 kms",Diesel
+65a8df601781205b99e8be1b,Toyota Corolla Altis,Toyota,2009,"3,00,000","1,32,000 kms",Petrol
+65a8df601781205b99e8be1c,Ta,Tara,zest,"3,10,000",,
+65a8df601781205b99e8be1d,Tata Zest XM Diesel,Tata,2018,"2,60,000","27,000 kms",Diesel
+65a8df601781205b99e8be1e,Mahindra Quanto C8,Mahindra,2013,"3,90,000","40,000 kms",Diesel
+65a8df601781205b99e8be1f,Honda Amaze 1.2 E i VTEC,Honda,2014,"1,80,000",Petrol,
+65a8df601781205b99e8be20,Chevrolet Sail 1.2 LT ABS,Chevrolet,2014,"1,60,000",Petrol,
